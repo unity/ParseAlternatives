@@ -29,7 +29,7 @@ Backbeam offers many services that you will use to build your web and mobile app
 A lightweight, fast and flexible platform for collecting and processing IoT data.
 
 - **[built.io](https://www.built.io/products/backend/overview)** :zap:
-Built.io provides cloud and digital solutions to Fortune 500 companies and startups alike reaching millions of users. Our products and services enable enterprises to accelerate mobile app development, simplify content management and connect the business across the Internet of Things.
+Built.io's award-winning mobile Backend-as-a-Service (mBaaS) allows companies to create applications without the hassle of designing, building, and maintaining a custom backend technology stack. Built.io Backend provides a proven, enterprise-grade platform that powers engaging applications for web, mobile and loT — built in weeks or days, instead of months.
 
 - **[CloudMine](https://cloudmine.me)**
 Data security & governance often hinders the delivery of mobile initiatives by presenting risks to organizations including privacy, authorization and auditability. Building compliant mobile systems requires expertise in constantly evolving regulations. These challenges make for a perfect storm of complexity within healthcare and highly regulated industries, leading to significant friction instead of innovation. CloudMine provides a turn-key compliance framework to manage this moving target.
