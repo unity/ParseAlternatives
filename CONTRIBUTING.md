@@ -8,5 +8,6 @@ When adding new items, please adhere to the following guidelines:
 - New categories, or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive.
 - Check your spelling and grammar.
- 
+- Real-time providers should be marked with :zap: icon. 
+
 Thank you for your suggestions!
