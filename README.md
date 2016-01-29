@@ -43,6 +43,8 @@ Built.io's award-winning mobile Backend-as-a-Service (mBaaS) allows companies to
 - **[CloudMine](https://cloudmine.me)**
 Instantly embed mobile services such as: push notification, geolocation, social, SMS and personal fitness data with out-of-box support for mission critical APIs & web services. Make sure your mobile experience is enjoyed across all devices with support for iOS, Android, Microsoft, mobile web (HTML5), and cross-platform UI toolsets.
 
+- **[Couchbase Mobile](http://developer.couchbase.com/mobile)** :zap: A full-stack open-source NoSQL database.  It includes an embedded database (for iOS, OS X, tvOS, watchOS, Android, Linux, Windows, Unity, Xamarin, PhoneGap/Cordova, and HTML 5), a database server, multi-master replication w/ automatic and custom conflict resolution, fine-grained user/role based security, pluggable authentication, web-hooks, REST APIs, and Stream/Batch APIs.  Apps using Couchbase Mobile work offline with data being automatically synchronized between the embedded databases and database server.  It is designed to be easily integrated w/ other systems.
+
 - **[Firebase](https://www.firebase.com)** :zap:
 A backend as a service that provides an API to both store and sync data in realtime across all your clients. When data changes, apps built with Firebase update instantly across every device - web or mobile. Firebase-powered apps also work offline, data is automatically synchronized when your app regains connectivity. With Firebase you don't need to write any backend code - or worry about scaling that backend.
 
