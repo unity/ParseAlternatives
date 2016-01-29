@@ -49,9 +49,6 @@ An alternative backend-as-a-service provider very similar to Parse. Like Parse, 
 - **[Kumulos](http://www.kumulos.com)**
 The Kumulos platform started life back in 2010 as a mBaaS. It was built to make it easy and affordable for app developers to build, ship and maintain even the most complex and scalable apps. Since then we have dedicated ourselves to helping app businesses smooth their revenue streams and building services that deliver strong, reliable recurring revenues. Services that are easy to sell, are valued by app owners and keep you close to your customers.
 
-- **[Otto](https://www.ottoproject.io)**
-A new devops tool that automates the way application environments are created for both development and production use. Created by HashiCorp, Otto aims to be the successor to Vagrant by abstracting away the complexity of learning all the tooling required to develop locally, provision infrastructure, deploy applications, and secure applications, into one tool to handle all the aspects of development and deployment to any cloud platform. A great tool for iOS developers that need to build a backend service but don't have to time to learn all the tooling required to develop and deploy.
-
 - **[Perfect](http://perfect.org)**
 A framework for developing web and other REST services in Swift. Perfect's primary focus is on facilitating mobile apps which require backend server software, allowing you to use one language for both client-side and server-side development. It consists of: PerfectLib, a module components and utilities for client and server including JSON encoding/decoding, cURL support, byte stream management, and more; Perfect Server, a backend server supporting FastCGI or stand-alone HTTP; and a set of connectors to add server side support for technologies such as MySQL, PostgreSQL and MongoDB.
 
