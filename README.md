@@ -28,7 +28,7 @@ Backbeam offers many services that you will use to build your web and mobile app
 - **[Buddy](https://buddy.com)**
 A lightweight, fast and flexible platform for collecting and processing IoT data.
 
-- **[built.io](http://www.built.io)**
+- **[built.io](https://www.built.io/products/backend/overview)** :zap:
 Built.io provides cloud and digital solutions to Fortune 500 companies and startups alike reaching millions of users. Our products and services enable enterprises to accelerate mobile app development, simplify content management and connect the business across the Internet of Things.
 
 - **[CloudMine](https://cloudmine.me)**
