@@ -34,9 +34,6 @@ Built.io's award-winning mobile Backend-as-a-Service (mBaaS) allows companies to
 - **[CloudMine](https://cloudmine.me)**
 Data security & governance often hinders the delivery of mobile initiatives by presenting risks to organizations including privacy, authorization and auditability. Building compliant mobile systems requires expertise in constantly evolving regulations. These challenges make for a perfect storm of complexity within healthcare and highly regulated industries, leading to significant friction instead of innovation. CloudMine provides a turn-key compliance framework to manage this moving target.
 
-- **[Fabric](https://get.fabric.io)**
-A new suite of cross-platform mobile development tools from Twitter that helps developers solve several common challenges. Fabric is comprised of all seven of Twitter's SDKs organised into three distinct 'Kits': the Crashlytics Kit, the Twitter Kit, and the MoPub Kit, covering crash reporting, testing before going live, driving downloads, onboarding new users, social features, understanding your apps’s growth and monetisation. It's also really easy to incorporate the tools using a Mac app that integrates with Xcode to walk you through the steps required.
-
 - **[Firebase](https://www.firebase.com)** :zap:
 A backend as a service that provides an API to both store and sync data in realtime across all your clients. When data changes, apps built with Firebase update instantly across every device - web or mobile. Firebase-powered apps also work offline, data is automatically synchronized when your app regains connectivity. With Firebase you don't need to write any backend code - or worry about scaling that backend.
 
