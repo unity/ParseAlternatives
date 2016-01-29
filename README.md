@@ -28,6 +28,9 @@ Integrated mobile backend services (MBaaS), so you can focus on your apps, not i
 - **[Backbeam](http://backbeam.io)** :zap:
 Backbeam offers many services that you will use to build your web and mobile applications. Backbeam is also designed to help you in your development process, not only when your application is finished.
 
+- **[Backendless](https://backendless.com)**
+A system of integrated, general purpose, mobile cloud services with native and REST APIs. Such as: User Management, Data Persistence, Geolocation, Media Streaming, Publish/Subscribe Messaging, Push Notifications, Custom Business Logic, Analytics, Mobile Code Generation.
+
 - **[Buddy](https://buddy.com)**
 A lightweight, fast and flexible platform for collecting and processing IoT data.
 
