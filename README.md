@@ -14,11 +14,14 @@ As you may noticed [Parse](http://blog.parse.com/announcements/moving-on) will b
 
 ###List of providers
 
+- **[AnyPresence](http://www.anypresence.com/solutions/mbaas/)**
+The AnyPresence MBaaS is focused on simplifying the process of building enterprise mobile apps that run on many devices, without sacrificing developer flexibility. Users without much mobile experience or time can get started quickly, to assemble and deploy an app through a web-based designer. Advanced developers have access to the source code for all underlying components, to make customizations outside the platform or deploy server components on-premise.
+
 - **[Apiary](https://apiary.io)**
 A tool for helping you design the best API before having to write any code. Apiary lets you design and test your API with an API Blueprint written in a open sourced, Markdown-like language that defines your API endpoints and how they should work including a mock server, tests, validations, code samples and your language bindings. Apiary will also convert your API Blueprint into interactive, comprehensive documentation for your API that you can share with other developers. It also offers a Traffic Inspector that will show exact data for requests made on your API, down to HTTP level, and outline differences from API documentation, or even perform validations against your schema.
 
-- **[AnyPresence](http://www.anypresence.com/solutions/mbaas/)**
-The AnyPresence MBaaS is focused on simplifying the process of building enterprise mobile apps that run on many devices, without sacrificing developer flexibility. Users without much mobile experience or time can get started quickly, to assemble and deploy an app through a web-based designer. Advanced developers have access to the source code for all underlying components, to make customizations outside the platform or deploy server components on-premise.
+- **[ApiOmat](https://apiomat.com)**
+ApiOmat enables your enterprise processes to function as mobile applications. We mobilize complex business structures and processes by offering a mobile backend as a service solution that connects existing IT-systems with mobile applications and devices. The mobile backend as a service can be directly installed in a company’s data center, with connectors operating as a secure linkage to IT systems. This allows employees to work with data via apps and digital instances irrespective of where they are. 
 
 - **[Backbeam](http://backbeam.io)**
 Backbeam offers many services that you will use to build your web and mobile applications. Backbeam is also designed to help you in your development process, not only when your application is finished.
