@@ -25,9 +25,6 @@ ApiOmat enables your enterprise processes to function as mobile applications. We
 - **[Backbeam](http://backbeam.io)** :zap:
 Backbeam offers many services that you will use to build your web and mobile applications. Backbeam is also designed to help you in your development process, not only when your application is finished.
 
-- **[Bit6](http://bit6.com)**
-A service that provides realtime communication capabilities for your app. Bit6 provides a drop-in SDK that lets you add app-to-app voice and video calling, text, photo, location and video messaging. It can even provide integration with PSTN lines and SMS so you can make calls and send messages to landlines and feature phones from your app. The Bit6 SDK also handles all the identity management and user authentication and discovery through phone number, email, Google or Facebook. The SDK is available for iOS, Android and Javascript for web apps.
-
 - **[Buddy](https://buddy.com)**
 A lightweight, fast and flexible platform for collecting and processing IoT data.
 
@@ -40,7 +37,7 @@ Data security & governance often hinders the delivery of mobile initiatives by p
 - **[Fabric](https://get.fabric.io)**
 A new suite of cross-platform mobile development tools from Twitter that helps developers solve several common challenges. Fabric is comprised of all seven of Twitter's SDKs organised into three distinct 'Kits': the Crashlytics Kit, the Twitter Kit, and the MoPub Kit, covering crash reporting, testing before going live, driving downloads, onboarding new users, social features, understanding your apps’s growth and monetisation. It's also really easy to incorporate the tools using a Mac app that integrates with Xcode to walk you through the steps required.
 
-- **[Firebase](https://www.firebase.com)**
+- **[Firebase](https://www.firebase.com)** :zap:
 A backend as a service that provides an API to both store and sync data in realtime across all your clients. When data changes, apps built with Firebase update instantly across every device - web or mobile. Firebase-powered apps also work offline, data is automatically synchronized when your app regains connectivity. With Firebase you don't need to write any backend code - or worry about scaling that backend.
 
 - **[Helios](http://helios.io)**
