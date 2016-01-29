@@ -51,6 +51,3 @@ The Kumulos platform started life back in 2010 as a mBaaS. It was built to make 
 
 - **[Telerik](http://www.telerik.com/platform/backend-services)**
 Telerik Backend Services is equipped with a robust set of security measures to encrypt and securely transport data from all communications. As your business needs grow, you can be sure that Telerik Backend Services will scale to meet your requirements.
-
-- **[Urban Airship](https://www.urbanairship.com)**
-Urban Airship used to just provide the backend for push notifications but has now expanded into other services such as analytics, audience segmentation and Passbook support. The SDK is simple to implement and the free plan includes 1 million push messages per month!
