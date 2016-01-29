@@ -12,7 +12,7 @@ As you may noticed [Parse](http://blog.parse.com/announcements/moving-on) will b
 - Cloud Code integration
 - Multiple mobile platform SDKs
 
-The real-time providers are marked with :zap:.
+The real-time providers are marked with :zap: icon.
 
 ###List of providers
 
@@ -22,7 +22,7 @@ The AnyPresence MBaaS is focused on simplifying the process of building enterpri
 - **[ApiOmat](https://apiomat.com)**
 ApiOmat enables your enterprise processes to function as mobile applications. We mobilize complex business structures and processes by offering a mobile backend as a service solution that connects existing IT-systems with mobile applications and devices. The mobile backend as a service can be directly installed in a company’s data center, with connectors operating as a secure linkage to IT systems. This allows employees to work with data via apps and digital instances irrespective of where they are. 
 
-- **[Backbeam](http://backbeam.io)**
+- **[Backbeam](http://backbeam.io)** :zap:
 Backbeam offers many services that you will use to build your web and mobile applications. Backbeam is also designed to help you in your development process, not only when your application is finished.
 
 - **[Bit6](http://bit6.com)**
