@@ -47,7 +47,7 @@ With Kii’s mobile backend, create scalable, high performance mobile apps for v
 An alternative backend-as-a-service provider very similar to Parse. Like Parse, it offers cloud storage, push notifications and custom business logic, but also provides an out-of-the-box implementation of Facebook Open Graph for apps that don't have websites.
 
 - **[Kumulos](http://www.kumulos.com)**
-The Kumulos platform started life back in 2010 as a mBaaS. It was built to make it easy and affordable for app developers to build, ship and maintain even the most complex and scalable apps. Since then we have dedicated ourselves to helping app businesses smooth their revenue streams and building services that deliver strong, reliable recurring revenues. Services that are easy to sell, are valued by app owners and keep you close to your customers.
+Kumulos supports all the major devices and platforms. Whether your project is working with native, hybrid or web development tools Kumulos has libraries for you to download and install within your mobile app. Our drag and drop interface makes it easy to build your database tables, create a method, build your API and download bindings in minutes.
 
 - **[Kuzzle](http://kuzzle.io)** :zap:
 Kuzzle is an open-source back-end as a service (BaaS). Kuzzle combines a high level API, a database, a real-time engine, subscription and notification mechanisms as well as some advanced search features. The API is accessible through several standard protocols.
