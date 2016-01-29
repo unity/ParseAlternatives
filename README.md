@@ -40,8 +40,8 @@ A backend as a service that provides an API to both store and sync data in realt
 - **[Helios](http://helios.io)**
 An extensible open-source backend framework for iOS apps from Mattt Thompson. Helios is built on the Rack webserver interface and is comprised of a collection of backend components that you can mix and match to provide features including data synchronisation, push notifications, in-app purchases, Passbook, Newstand, logging and analytics.
 
-- **[Kii](http://www.kii.com)**
-Today’s Internet of Things (IoT) and mobile projects require powerful connectivity, instant scalability, 24/7 availability and multilayer security. Kii helps developers and device manufacturers of all sizes meet their high-performance demands with an end-to-end platform optimized for building and running enterprise mobile and IoT initiatives.
+- **[Kii](https://en.kii.com/platform)**
+With Kii’s mobile backend, create scalable, high performance mobile apps for various operating systems that all connect with your device seamlessly. With a complete set of built-in development tools, reduce your app development time from months to hours.
 
 - **[Kinvey](http://www.kinvey.com)**
 An alternative backend-as-a-service provider very similar to Parse. Like Parse, it offers cloud storage, push notifications and custom business logic, but also provides an out-of-the-box implementation of Facebook Open Graph for apps that don't have websites.
