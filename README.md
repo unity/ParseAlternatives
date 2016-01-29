@@ -40,6 +40,9 @@ A lightweight, fast and flexible platform for collecting and processing IoT data
 - **[Built.io](https://www.built.io/products/backend/overview)** :zap:
 Built.io's award-winning mobile Backend-as-a-Service (mBaaS) allows companies to create applications without the hassle of designing, building, and maintaining a custom backend technology stack. Built.io Backend provides a proven, enterprise-grade platform that powers engaging applications for web, mobile and loT — built in weeks or days, instead of months.
 
+- **[CloudKit](https://developer.apple.com/icloud/)**
+CloudKit is a framework that replaces back-end web services like old-school databases, file storage, and user authentication systems. CloudKit offers tons of APIs to access iCloud. You can create a user model inside your application linked to a user’s iCloud account. Meanwhile, you can have a public global database to store application-level data. You can also save large files and bulk data into iCloud Drive, so your users can use their data from their other devices. This works just like working on local files, but with all the operations sent to the cloud.
+
 - **[CloudMine](https://cloudmine.me)**
 Instantly embed mobile services such as: push notification, geolocation, social, SMS and personal fitness data with out-of-box support for mission critical APIs & web services. Make sure your mobile experience is enjoyed across all devices with support for iOS, Android, Microsoft, mobile web (HTML5), and cross-platform UI toolsets.
 
