@@ -25,6 +25,9 @@ ApiOmat enables your enterprise processes to function as mobile applications. We
 - **[Appery.io](https://appery.io/backendservices)**
 Integrated mobile backend services (MBaaS), so you can focus on your apps, not infrastructure, including database, push, and server code.
 
+- **[AppWooDoo](http://www.appwoodoo.com)** :zap:
+AppWooDoo offers a simple yet powerful real-time database and push notifications backend server. Compatible for iOS and Android.
+
 - **[Backbeam](http://backbeam.io)** :zap:
 Backbeam offers many services that you will use to build your web and mobile applications. Backbeam is also designed to help you in your development process, not only when your application is finished.
 
