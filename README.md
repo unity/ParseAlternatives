@@ -49,5 +49,8 @@ An alternative backend-as-a-service provider very similar to Parse. Like Parse, 
 - **[Kumulos](http://www.kumulos.com)**
 The Kumulos platform started life back in 2010 as a mBaaS. It was built to make it easy and affordable for app developers to build, ship and maintain even the most complex and scalable apps. Since then we have dedicated ourselves to helping app businesses smooth their revenue streams and building services that deliver strong, reliable recurring revenues. Services that are easy to sell, are valued by app owners and keep you close to your customers.
 
+- **[Kuzzle](http://kuzzle.io) :zap:
+Kuzzle is an open-source back-end as a service (BaaS). Kuzzle combines a high level API, a database, a real-time engine, subscription and notification mechanisms as well as some advanced search features. The API is accessible through several standard protocols.
+
 - **[Telerik](http://www.telerik.com/platform/backend-services)**
 Telerik Backend Services is equipped with a robust set of security measures to encrypt and securely transport data from all communications. As your business needs grow, you can be sure that Telerik Backend Services will scale to meet your requirements.
