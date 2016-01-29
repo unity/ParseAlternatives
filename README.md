@@ -49,9 +49,6 @@ An alternative backend-as-a-service provider very similar to Parse. Like Parse, 
 - **[Kumulos](http://www.kumulos.com)**
 The Kumulos platform started life back in 2010 as a mBaaS. It was built to make it easy and affordable for app developers to build, ship and maintain even the most complex and scalable apps. Since then we have dedicated ourselves to helping app businesses smooth their revenue streams and building services that deliver strong, reliable recurring revenues. Services that are easy to sell, are valued by app owners and keep you close to your customers.
 
-- **[Perfect](http://perfect.org)**
-A framework for developing web and other REST services in Swift. Perfect's primary focus is on facilitating mobile apps which require backend server software, allowing you to use one language for both client-side and server-side development. It consists of: PerfectLib, a module components and utilities for client and server including JSON encoding/decoding, cURL support, byte stream management, and more; Perfect Server, a backend server supporting FastCGI or stand-alone HTTP; and a set of connectors to add server side support for technologies such as MySQL, PostgreSQL and MongoDB.
-
 - **[StackShare](http://stackshare.io)**
 A site where you can discover the tech stacks behind some of the world's best software companies such as Twitter, Facebook and Dropbox. StackShare lets you see which tools and services they use, and how they're using them. If you need to set up a backend service to support your iOS app but don't know what tools to use, StackShare is the best place to start. Once you're happy with the tools and services you've chosen, you can share your stack for other developers to discuss and vote on.
 
