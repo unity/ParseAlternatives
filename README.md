@@ -12,6 +12,8 @@ As you may noticed [Parse](http://blog.parse.com/announcements/moving-on) will b
 - Cloud Code integration
 - Multiple mobile platform SDKs
 
+The real-time providers are marked with :zap:.
+
 ###List of providers
 
 - **[AnyPresence](http://www.anypresence.com/solutions/mbaas/)**
