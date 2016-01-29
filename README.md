@@ -49,9 +49,6 @@ An alternative backend-as-a-service provider very similar to Parse. Like Parse, 
 - **[Kumulos](http://www.kumulos.com)**
 The Kumulos platform started life back in 2010 as a mBaaS. It was built to make it easy and affordable for app developers to build, ship and maintain even the most complex and scalable apps. Since then we have dedicated ourselves to helping app businesses smooth their revenue streams and building services that deliver strong, reliable recurring revenues. Services that are easy to sell, are valued by app owners and keep you close to your customers.
 
-- **[Let’s Encrypt](https://letsencrypt.org)**
-A new certificate authority that's free, automated, and open. Let’s Encrypt aims to allow anyone who owns a domain (including this site) to use a trusted certificate to secure their server at zero cost unlike other CAs that may charge over $100 per year to do the same. It also includes a command line tool that runs on your web server that makes it painless to obtain a certificate, securely configure it for use, and automatically take care of renewal. Let's Encrypt is backed by some big sponsors, including Cisco, Mozilla and Facebook, and has just entered public beta so can now be used by everyone.
-
 - **[Objective-Cloud](http://objective-cloud.com)**
 Not exactly an iOS development tool, but it is an idea that is mad enough to get a mention. As the name suggests, Objective-Cloud allows you to run Objective-C in the cloud. You can develop your custom web applications in Xcode, deploy straight to the cloud and they handle all the scaling. They also provide an SDK that includes a custom HTTP handler for creating RESTful web services. Price tiers are very reasonable as well.
 
