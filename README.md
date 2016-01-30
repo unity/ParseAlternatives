@@ -61,14 +61,8 @@ Contentful is a backend as a service focused on editorial / curated content. Dev
 - **[Firebase](https://www.firebase.com)** :zap:
 A backend as a service that provides an API to both store and sync data in realtime across all your clients. When data changes, apps built with Firebase update instantly across every device - web or mobile. Firebase-powered apps also work offline, data is automatically synchronized when your app regains connectivity. With Firebase you don't need to write any backend code - or worry about scaling that backend.
 
-- **[Google Cloud Platform](https://cloud.google.com/nodejs/resources/frameworks/parse-server)**
-You can migrate your app from the hosted Parse backend to Google App Engine by running Node.js on App Engine Managed VMs and using MongoDB preinstalled on a Compute Engine VM instance or by using MongoLab.
-
 - **[Helios](http://helios.io)**
 An extensible open-source backend framework for iOS apps from Mattt Thompson. Helios is built on the Rack webserver interface and is comprised of a collection of backend components that you can mix and match to provide features including data synchronisation, push notifications, in-app purchases, Passbook, Newstand, logging and analytics.
-
-- **[IBM Bluemix](https://developer.ibm.com/clouddataservices/2016/01/29/parse-on-ibm-bluemix/)**
-Bluemix is IBM's platform service, built with Cloud Foundry and running on IBM SoftLayer. It supports the Node.js runtime required for Parse Server. Bluemix also comes with many database options, including MongoDB from IBM's Compose.io acquisition. Link includes migration instructions.
 
 - **[Kii](https://en.kii.com/platform)**
 With Kii’s mobile backend, create scalable, high performance mobile apps for various operating systems that all connect with your device seamlessly. With a complete set of built-in development tools, reduce your app development time from months to hours.
@@ -96,3 +90,11 @@ Stamplay help developers to build serverless app by using API as Lego blocks. It
 
 - **[Telerik](http://www.telerik.com/platform/backend-services)**
 Telerik Backend Services is equipped with a robust set of security measures to encrypt and securely transport data from all communications. As your business needs grow, you can be sure that Telerik Backend Services will scale to meet your requirements.
+
+###Parse Server providers 
+
+- **[Google Cloud Platform](https://cloud.google.com/nodejs/resources/frameworks/parse-server)**
+You can migrate your app from the hosted Parse backend to Google App Engine by running Node.js on App Engine Managed VMs and using MongoDB preinstalled on a Compute Engine VM instance or by using MongoLab.
+
+- **[IBM Bluemix](https://developer.ibm.com/clouddataservices/2016/01/29/parse-on-ibm-bluemix/)**
+Bluemix is IBM's platform service, built with Cloud Foundry and running on IBM SoftLayer. It supports the Node.js runtime required for Parse Server. Bluemix also comes with many database options, including MongoDB from IBM's Compose.io acquisition. Link includes migration instructions.
