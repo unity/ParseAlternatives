@@ -15,7 +15,7 @@ As you may noticed [Parse](http://blog.parse.com/announcements/moving-on) will b
 
 The real-time providers are marked with :zap: icon.
 
-###List of providers
+###General purpose providers
 
 - **[AnyPresence](http://www.anypresence.com/solutions/mbaas)**
 The AnyPresence MBaaS is focused on simplifying the process of building enterprise mobile apps that run on many devices, without sacrificing developer flexibility. Users without much mobile experience or time can get started quickly, to assemble and deploy an app through a web-based designer. Advanced developers have access to the source code for all underlying components, to make customizations outside the platform or deploy server components on-premise.
@@ -77,35 +77,6 @@ Syncano is a highly customizable BaaS that greatly reduces the need for backend 
 - **[Telerik](http://www.telerik.com/platform/backend-services)**
 Telerik Backend Services is equipped with a robust set of security measures to encrypt and securely transport data from all communications. As your business needs grow, you can be sure that Telerik Backend Services will scale to meet your requirements.
 
-###Open-source solutions
-
-- **[Apache Usergrid](http://usergrid.apache.org)**
-Usergrid is an open-source Backend-as-a-Service (“BaaS” or “mBaaS”) composed of an integrated distributed NoSQL database, application layer and client tier with SDKs for developers looking to rapidly build web and/or mobile applications. It provides elementary services (user registration & management, data storage, file storage, queues) and retrieval features (full text search, geolocation search, joins) to power common app features.
-
-- **[Couchbase Mobile](http://developer.couchbase.com/mobile)** :zap: A full-stack open-source NoSQL database. It includes an embedded database (for iOS, OS X, tvOS, watchOS, Android, Linux, Windows, Unity, Xamarin, PhoneGap/Cordova, and HTML5), a database server, multi-master replication with automatic and custom conflict resolution, fine-grained user/role based security, pluggable authentication, web-hooks, REST APIs, and Stream/Batch APIs. Apps using Couchbase Mobile work offline with data being automatically synchronized between the embedded databases and database server. It is designed to be easily integrated with other systems.
-
-- **[GUN](http://gun.js.org/)** :zap: GUN is a highly modular, open-source, real-time, offline-first, distributed cache storage engine.  By default gun uses localStorage for data storage, but with [gun-level](https://github.com/PsychoLlama/gun-level) there are [many more data storage engines](https://github.com/Level/levelup/wiki/Modules#storage) just a module away.  GUN defaults to pushing all data.  The gun team is regularly releasing new modules, new and improved functionality, and improving performance.  If you have any questions, please feel free to ping the team on [Gitter](https://gitter.im/amark/gun).
-
-- **[Helios](http://helios.io)**
-An extensible open-source backend framework for iOS apps from Mattt Thompson. Helios is built on the Rack webserver interface and is comprised of a collection of backend components that you can mix and match to provide features including data synchronisation, push notifications, in-app purchases, Passbook, Newstand, logging and analytics.
-
-- **[Kuzzle](http://kuzzle.io)** :zap:
-Kuzzle is an open-source back-end as a service (BaaS). Kuzzle combines a high level API, a database, a real-time engine, subscription and notification mechanisms as well as some advanced search features. The API is accessible through several standard protocols.
-
-- **[LoopBack](http://loopback.io)** :zap:
-LoopBack is an open-source Node.js framework built on top of Express optimized for building APIs for mobile, web, and other devices. Connect to multiple data sources, write business logic in Node.js, glue on top of your existing services and data, connect using JS, iOS & Android SDKs.
-
-- **[Marlin](http://atmb4u.github.io/marlin)** :zap:
-Marlin is a  fast REST API library built on top of redis server. Its has no specific clients like Android or iOS. But it has got developer API for custom APIs which can be written in Python.
-
-###Parse Server providers
-
-- **[Google Cloud Platform](https://cloud.google.com/nodejs/resources/frameworks/parse-server)**
-You can migrate your app from the hosted Parse backend to Google App Engine by running Node.js on App Engine Managed VMs and using MongoDB preinstalled on a Compute Engine VM instance or by using MongoLab.
-
-- **[IBM Bluemix](https://developer.ibm.com/clouddataservices/2016/01/29/parse-on-ibm-bluemix)**
-Bluemix is IBM's platform service, built with Cloud Foundry and running on IBM SoftLayer. It supports the Node.js runtime required for Parse Server. Bluemix also comes with many database options, including MongoDB from IBM's Compose.io acquisition. Link includes migration instructions.
-
 ###Push notification providers
 
 - **[Batch](https://batch.com)**
@@ -128,3 +99,32 @@ Urban Airship helps leading brands engage their mobile users and build high-valu
 
 - **[Heroic Labs](https://heroiclabs.com)**
 Heroic's API makes it easy for developers to rapidly add social and competitive features to apps/games without the need for a server backend. The API is designed and optimised for high volume mobile apps/games, and readily provides all the necessary features without requiring additional code or configuration on top of basic building blocks.
+
+###Open-source solutions
+
+- **[Apache Usergrid](http://usergrid.apache.org)**
+Usergrid is an open-source Backend-as-a-Service (“BaaS” or “mBaaS”) composed of an integrated distributed NoSQL database, application layer and client tier with SDKs for developers looking to rapidly build web and/or mobile applications. It provides elementary services (user registration & management, data storage, file storage, queues) and retrieval features (full text search, geolocation search, joins) to power common app features.
+
+- **[Couchbase Mobile](http://developer.couchbase.com/mobile)** :zap: A full-stack open-source NoSQL database. It includes an embedded database (for iOS, OS X, tvOS, watchOS, Android, Linux, Windows, Unity, Xamarin, PhoneGap/Cordova, and HTML5), a database server, multi-master replication with automatic and custom conflict resolution, fine-grained user/role based security, pluggable authentication, web-hooks, REST APIs, and Stream/Batch APIs. Apps using Couchbase Mobile work offline with data being automatically synchronized between the embedded databases and database server. It is designed to be easily integrated with other systems.
+
+- **[GUN](http://gun.js.org/)** :zap: GUN is a highly modular, open-source, real-time, offline-first, distributed cache storage engine.  By default gun uses localStorage for data storage, but with [gun-level](https://github.com/PsychoLlama/gun-level) there are [many more data storage engines](https://github.com/Level/levelup/wiki/Modules#storage) just a module away. GUN defaults to pushing all data. The gun team is regularly releasing new modules, new and improved functionality, and improving performance. If you have any questions, please feel free to ping the team on [Gitter](https://gitter.im/amark/gun).
+
+- **[Helios](http://helios.io)**
+An extensible open-source backend framework for iOS apps from Mattt Thompson. Helios is built on the Rack webserver interface and is comprised of a collection of backend components that you can mix and match to provide features including data synchronisation, push notifications, in-app purchases, Passbook, Newstand, logging and analytics.
+
+- **[Kuzzle](http://kuzzle.io)** :zap:
+Kuzzle is an open-source back-end as a service (BaaS). Kuzzle combines a high level API, a database, a real-time engine, subscription and notification mechanisms as well as some advanced search features. The API is accessible through several standard protocols.
+
+- **[LoopBack](http://loopback.io)** :zap:
+LoopBack is an open-source Node.js framework built on top of Express optimized for building APIs for mobile, web, and other devices. Connect to multiple data sources, write business logic in Node.js, glue on top of your existing services and data, connect using JS, iOS & Android SDKs.
+
+- **[Marlin](http://atmb4u.github.io/marlin)** :zap:
+Marlin is a  fast REST API library built on top of redis server. Its has no specific clients like Android or iOS. But it has got developer API for custom APIs which can be written in Python.
+
+###Parse Server providers
+
+- **[Google Cloud Platform](https://cloud.google.com/nodejs/resources/frameworks/parse-server)**
+You can migrate your app from the hosted Parse backend to Google App Engine by running Node.js on App Engine Managed VMs and using MongoDB preinstalled on a Compute Engine VM instance or by using MongoLab.
+
+- **[IBM Bluemix](https://developer.ibm.com/clouddataservices/2016/01/29/parse-on-ibm-bluemix)**
+Bluemix is IBM's platform service, built with Cloud Foundry and running on IBM SoftLayer. It supports the Node.js runtime required for Parse Server. Bluemix also comes with many database options, including MongoDB from IBM's Compose.io acquisition. Link includes migration instructions.
