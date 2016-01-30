@@ -76,6 +76,9 @@ Telerik Backend Services is equipped with a robust set of security measures to e
 - **[Apache Usergrid](http://usergrid.apache.org)**
 Usergrid is an open-source Backend-as-a-Service (“BaaS” or “mBaaS”) composed of an integrated distributed NoSQL database, application layer and client tier with SDKs for developers looking to rapidly build web and/or mobile applications. It provides elementary services (user registration & management, data storage, file storage, queues) and retrieval features (full text search, geolocation search, joins) to power common app features.
 
+- **[BAASBOX](http://www.baasbox.com)**
+BASSBOX provides a web administrative console, user management API and signup with Facebook and Google+, content managment with grant/revoke permissions on documents on user and roles, geospatial queries, store big file, file custom metadata and file links, integrated friendship APIs based on "following" concept, push notification for iOS and Android, Server scripting for extending the features via plugins.
+
 - **[Couchbase Mobile](http://developer.couchbase.com/mobile)** :zap: A full-stack open-source NoSQL database. It includes an embedded database (for iOS, OS X, tvOS, watchOS, Android, Linux, Windows, Unity, Xamarin, PhoneGap/Cordova, and HTML5), a database server, multi-master replication with automatic and custom conflict resolution, fine-grained user/role based security, pluggable authentication, web-hooks, REST APIs, and Stream/Batch APIs. Apps using Couchbase Mobile work offline with data being automatically synchronized between the embedded databases and database server. It is designed to be easily integrated with other systems.
 
 - **[Helios](http://helios.io)**
