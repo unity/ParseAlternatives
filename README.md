@@ -100,6 +100,10 @@ Bluemix is IBM's platform service, built with Cloud Foundry and running on IBM S
 - **[Batch](https://batch.com)**
 Batch is a push notification platform built around predictive analytics and smart segmentation algorithms. With Batch, you can efficiently send transactional (one to one) and marketing notifications (one to many) while leveraging our other modules to run a successful retention strategy.
 
+- **[Catapush](https://www.catapush.com)**
+Catapush is a simple, reliable and scalable delivery API for transactional push notifications for applications. Ideal for sending data-driven transactional notifications including targeted e-commerce and personalized one-to-one messages.
+Get delivery confirmation with real time status for each message sent and build intelligent messaging logic in your real time applications.
+
 - **[OneSignal](https://www.onesignal.com)**
 OneSignal is a completely free push notification delivery service. We fund our product development through products offered to enterprise clients. We provide a suite of APIs and tools for mobile developers to send, schedule, localize, and A/B test their notification campaigns. Our highly reliable service has all the features of Parse and developers can use our Parse data importer to ease their switch.
 
@@ -108,10 +112,6 @@ Pushwoosh is a multi-platform push notifications service, which enables develope
 
 - **[Urban Airship](https://www.urbanairship.com)**
 Urban Airship helps leading brands engage their mobile users and build high-value relationships from the moment customers download an app. Thousands of companies and some of the most demanding brands in retail, media & entertainment, sports and travel & hospitality, trust Urban Airship to deliver the mobile moments that matter to their customers and to their business.
-
-- **[Catapush](https://www.catapush.com)**
-Catapush is a simple, reliable and scalable delivery API for transactional push notifications for applications. Ideal for sending data-driven transactional notifications including targeted e-commerce and personalized one-to-one messages.
-Get delivery confirmation with real time status for each message sent and build intelligent messaging logic in your real time applications.
 
 ###Backends for Game developers
 
