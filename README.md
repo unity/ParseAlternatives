@@ -94,8 +94,8 @@ Bluemix is IBM's platform service, built with Cloud Foundry and running on IBM S
 - **[OneSignal](https://www.onesignal.com/parse)**
 OneSignal is a completely free push notification delivery service. We fund our product development through products offered to enterprise clients. We provide a suite of APIs and tools for mobile developers to send, schedule, localize, and A/B test their notification campaigns. Our highly reliable service has all the features of Parse and developers can use our Parse data importer to ease their switch.
 
-- **[Pushwoosh](https://www.pushwoosh.com)
+- **[Pushwoosh](https://www.pushwoosh.com)**
 Pushwoosh is a multi-platform push notifications service, which enables developers, marketing reps and product owners to keep in touch with their app users, drive engagement, promote products, push up sales, and track the progress of the campaign with notifications.
 
-- **[Urban Airship](https://www.urbanairship.com)
+- **[Urban Airship](https://www.urbanairship.com)**
 Urban Airship helps leading brands engage their mobile users and build high-value relationships from the moment customers download an app. Thousands of companies and some of the most demanding brands in retail, media & entertainment, sports and travel & hospitality, trust Urban Airship to deliver the mobile moments that matter to their customers and to their business.
