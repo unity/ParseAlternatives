@@ -68,6 +68,9 @@ PubNub powers low-latency messaging across any device, any platform, anywhere in
 - **[Restdb.io](https://restdb.io)**
 Backend-as-a-service focused on a powerful interface for creating your database models and providing a JSON REST API.
 
+- **[Syncano](https://www.syncano.io)**
+Syncano is a highly customizable BaaS that greatly reduces the need for backend code and middleware so developers can focus on building exceptional user experiences.
+
 - **[Telerik](http://www.telerik.com/platform/backend-services)**
 Telerik Backend Services is equipped with a robust set of security measures to encrypt and securely transport data from all communications. As your business needs grow, you can be sure that Telerik Backend Services will scale to meet your requirements.
 
@@ -109,9 +112,6 @@ OneSignal is a completely free push notification delivery service. We fund our p
 
 - **[Pushwoosh](https://www.pushwoosh.com)**
 Pushwoosh is a multi-platform push notifications service, which enables developers, marketing reps and product owners to keep in touch with their app users, drive engagement, promote products, push up sales, and track the progress of the campaign with notifications.
-
-- **[Syncano](https://www.syncano.io)**
-Syncano is a highly customizable BaaS that greatly reduces the need for backend code and middleware so developers can focus on building exceptional user experiences.
 
 - **[Urban Airship](https://www.urbanairship.com)**
 Urban Airship helps leading brands engage their mobile users and build high-value relationships from the moment customers download an app. Thousands of companies and some of the most demanding brands in retail, media & entertainment, sports and travel & hospitality, trust Urban Airship to deliver the mobile moments that matter to their customers and to their business.
