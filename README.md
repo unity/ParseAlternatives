@@ -86,10 +86,13 @@ LoopBack is an open-source Node.js framework built on top of Express optimized f
 - **[Google Cloud Platform](https://cloud.google.com/nodejs/resources/frameworks/parse-server)**
 You can migrate your app from the hosted Parse backend to Google App Engine by running Node.js on App Engine Managed VMs and using MongoDB preinstalled on a Compute Engine VM instance or by using MongoLab.
 
-- **[IBM Bluemix](https://developer.ibm.com/clouddataservices/2016/01/29/parse-on-ibm-bluemix/)**
+- **[IBM Bluemix](https://developer.ibm.com/clouddataservices/2016/01/29/parse-on-ibm-bluemix)**
 Bluemix is IBM's platform service, built with Cloud Foundry and running on IBM SoftLayer. It supports the Node.js runtime required for Parse Server. Bluemix also comes with many database options, including MongoDB from IBM's Compose.io acquisition. Link includes migration instructions.
 
 ###Push notification providers
 
 - **[OneSignal](https://www.onesignal.com/parse)**
 OneSignal is a completely free push notification delivery service. We fund our product development through products offered to enterprise clients. We provide a suite of APIs and tools for mobile developers to send, schedule, localize, and A/B test their notification campaigns. Our highly reliable service has all the features of Parse and developers can use our Parse data importer to ease their switch.
+
+- **[Pushwoosh](https://www.pushwoosh.com)
+Pushwoosh is a multi-platform push notifications service, which enables developers, marketing reps and product owners to keep in touch with their app users, drive engagement, promote products, push up sales, and track the progress of the campaign with notifications.
