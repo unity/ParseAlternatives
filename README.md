@@ -76,6 +76,9 @@ Kumulos supports all the major devices and platforms. Whether your project is wo
 - **[Kuzzle](http://kuzzle.io)** :zap:
 Kuzzle is an open-source back-end as a service (BaaS). Kuzzle combines a high level API, a database, a real-time engine, subscription and notification mechanisms as well as some advanced search features. The API is accessible through several standard protocols.
 
+- **[LoopBack](http://loopback.io)** :zap:
+LoopBack is an open source Node.js framework built on top of Express optimized for building APIs for mobile, web, and other devices. Connect to multiple data sources, write business logic in Node.js, glue on top of your existing services and data, connect using JS, iOS & Android SDKs.
+
 - **[PubNub](https://www.pubnub.com)** :zap:
 PubNub powers low-latency messaging across any device, any platform, anywhere in the world. Use our simple APIs and SDKs to connect, build, and scale realtime applications on the PubNub Data Stream Network. Focus on shipping a great product instead of building and managing expensive data streaming infrastructure.
 
