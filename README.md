@@ -106,6 +106,9 @@ Heroic's API makes it easy for developers to rapidly add social and competitive 
 - **[Photon](https://www.photonengine.com)**
 Easily Add Multiplayer to Your Games, Run Them in the Global Photon Cloud or Host Your Own Photon Servers. Fast, reliable, scalable. Made for anyone: indies, professional studios and AAA productions.
 
+- **[PlayFab](https://playfab.com)**
+PlayFab offers the most complete backend platform built exclusively for live games. Start integrating with your mobile, PC, or console game for free, and go live for a fraction of the cost of one backend engineer. You bring the fun, we'll do the rest.
+
 ###Open-source solutions
 
 - **[Apache Usergrid](http://usergrid.apache.org)**
