@@ -55,6 +55,9 @@ Instantly embed mobile services such as: push notification, geolocation, social,
 - **[Firebase](https://www.firebase.com)** :zap:
 A backend as a service that provides an API to both store and sync data in realtime across all your clients. When data changes, apps built with Firebase update instantly across every device - web or mobile. Firebase-powered apps also work offline, data is automatically synchronized when your app regains connectivity. With Firebase you don't need to write any backend code - or worry about scaling that backend.
 
+- **[Google Cloud Platform](https://cloud.google.com/nodejs/resources/frameworks/parse-server)**
+You can migrate your app from the hosted Parse backend to Google App Engine by running Node.js on App Engine Managed VMs and using MongoDB preinstalled on a Compute Engine VM instance or by using MongoLab.
+
 - **[Helios](http://helios.io)**
 An extensible open-source backend framework for iOS apps from Mattt Thompson. Helios is built on the Rack webserver interface and is comprised of a collection of backend components that you can mix and match to provide features including data synchronisation, push notifications, in-app purchases, Passbook, Newstand, logging and analytics.
 
