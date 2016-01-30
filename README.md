@@ -16,7 +16,7 @@ The real-time providers are marked with :zap: icon.
 
 ###List of providers
 
-- **[AnyPresence](http://www.anypresence.com/solutions/mbaas/)**
+- **[AnyPresence](http://www.anypresence.com/solutions/mbaas)**
 The AnyPresence MBaaS is focused on simplifying the process of building enterprise mobile apps that run on many devices, without sacrificing developer flexibility. Users without much mobile experience or time can get started quickly, to assemble and deploy an app through a web-based designer. Advanced developers have access to the source code for all underlying components, to make customizations outside the platform or deploy server components on-premise.
 
 - **[ApiOmat](https://apiomat.com)**
@@ -28,7 +28,7 @@ Integrated mobile backend services (MBaaS), so you can focus on your apps, not i
 - **[AppWooDoo](http://www.appwoodoo.com)** :zap:
 AppWooDoo offers a simple yet powerful real-time database and push notifications backend server. Compatible for iOS and Android.
 
-- **[Appcelerator Arrow](http://www.appcelerator.com/mobile-app-development-products/mbaas-arrow/)** :zap:
+- **[Appcelerator Arrow](http://www.appcelerator.com/mobile-app-development-products/mbaas-arrow)** :zap:
 A next-gen MBaaS, Arrow consists of two primary components, Builder and Cloud. Arrow Builder lets developers rapidly assemble APIs, data models and data connectors either via visual wizard or programmatically. Arrow Cloud delivers an instant, elastically scalable cloud service for running APIs and analyzing their use, as well as full support for rich push notifications and 20+ other services (e.g. geo, photo storage, etc) along with ArrowDB, which provides a schema-less data store. 
 
 - **[Backbeam](http://backbeam.io)** :zap:
@@ -43,7 +43,7 @@ A lightweight, fast and flexible platform for collecting and processing IoT data
 - **[Built.io](https://www.built.io/products/backend/overview)** :zap:
 Built.io's award-winning mobile Backend-as-a-Service (mBaaS) allows companies to create applications without the hassle of designing, building, and maintaining a custom backend technology stack. Built.io Backend provides a proven, enterprise-grade platform that powers engaging applications for web, mobile and loT — built in weeks or days, instead of months.
 
-- **[CloudKit](https://developer.apple.com/icloud/)**
+- **[CloudKit](https://developer.apple.com/icloud)**
 CloudKit is a framework that replaces back-end web services like old-school databases, file storage, and user authentication systems. CloudKit offers tons of APIs to access iCloud. You can create a user model inside your application linked to a user’s iCloud account. Meanwhile, you can have a public global database to store application-level data. You can also save large files and bulk data into iCloud Drive, so your users can use their data from their other devices. This works just like working on local files, but with all the operations sent to the cloud.
 
 - **[CloudMine](https://cloudmine.me)**
@@ -69,7 +69,7 @@ Kumulos supports all the major devices and platforms. Whether your project is wo
 - **[Kuzzle](http://kuzzle.io)** :zap:
 Kuzzle is an open-source back-end as a service (BaaS). Kuzzle combines a high level API, a database, a real-time engine, subscription and notification mechanisms as well as some advanced search features. The API is accessible through several standard protocols.
 
-- **[PubNub](https://www.pubnub.com/)** :zap:
+- **[PubNub](https://www.pubnub.com)** :zap:
 PubNub powers low-latency messaging across any device, any platform, anywhere in the world. Use our simple APIs and SDKs to connect, build, and scale realtime applications on the PubNub Data Stream Network. Focus on shipping a great product instead of building and managing expensive data streaming infrastructure.
 
 - **[Telerik](http://www.telerik.com/platform/backend-services)**
