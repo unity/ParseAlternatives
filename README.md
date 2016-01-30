@@ -96,3 +96,6 @@ OneSignal is a completely free push notification delivery service. We fund our p
 
 - **[Pushwoosh](https://www.pushwoosh.com)
 Pushwoosh is a multi-platform push notifications service, which enables developers, marketing reps and product owners to keep in touch with their app users, drive engagement, promote products, push up sales, and track the progress of the campaign with notifications.
+
+- **[Urban Airship](https://www.urbanairship.com)
+Urban Airship helps leading brands engage their mobile users and build high-value relationships from the moment customers download an app. Thousands of companies and some of the most demanding brands in retail, media & entertainment, sports and travel & hospitality, trust Urban Airship to deliver the mobile moments that matter to their customers and to their business.
