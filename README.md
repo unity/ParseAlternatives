@@ -20,9 +20,6 @@ The real-time providers are marked with :zap: icon.
 - **[AnyPresence](http://www.anypresence.com/solutions/mbaas)**
 The AnyPresence MBaaS is focused on simplifying the process of building enterprise mobile apps that run on many devices, without sacrificing developer flexibility. Users without much mobile experience or time can get started quickly, to assemble and deploy an app through a web-based designer. Advanced developers have access to the source code for all underlying components, to make customizations outside the platform or deploy server components on-premise.
 
-- **[Apache Usergrid](http://usergrid.apache.org)**
-Usergrid is an open-source Backend-as-a-Service (“BaaS” or “mBaaS”) composed of an integrated distributed NoSQL database, application layer and client tier with SDKs for developers looking to rapidly build web and/or mobile applications. It provides elementary services (user registration & management, data storage, file storage, queues) and retrieval features (full text search, geolocation search, joins) to power common app features.
-
 - **[ApiOmat](https://apiomat.com)**
 ApiOmat enables your enterprise processes to function as mobile applications. We mobilize complex business structures and processes by offering a mobile backend as a service solution that connects existing IT-systems with mobile applications and devices. The mobile backend as a service can be directly installed in a company’s data center, with connectors operating as a secure linkage to IT systems. This allows employees to work with data via apps and digital instances irrespective of where they are.
 
@@ -53,13 +50,8 @@ CloudKit is a framework that replaces back-end web services like old-school data
 - **[CloudMine](https://cloudmine.me)**
 Instantly embed mobile services such as: push notification, geolocation, social, SMS and personal fitness data with out-of-box support for mission critical APIs & web services. Make sure your mobile experience is enjoyed across all devices with support for iOS, Android, Microsoft, mobile web (HTML5), and cross-platform UI toolsets.
 
-- **[Couchbase Mobile](http://developer.couchbase.com/mobile)** :zap: A full-stack open-source NoSQL database. It includes an embedded database (for iOS, OS X, tvOS, watchOS, Android, Linux, Windows, Unity, Xamarin, PhoneGap/Cordova, and HTML5), a database server, multi-master replication with automatic and custom conflict resolution, fine-grained user/role based security, pluggable authentication, web-hooks, REST APIs, and Stream/Batch APIs. Apps using Couchbase Mobile work offline with data being automatically synchronized between the embedded databases and database server. It is designed to be easily integrated with other systems.
-
 - **[Firebase](https://www.firebase.com)** :zap:
 A backend as a service that provides an API to both store and sync data in realtime across all your clients. When data changes, apps built with Firebase update instantly across every device - web or mobile. Firebase-powered apps also work offline, data is automatically synchronized when your app regains connectivity. With Firebase you don't need to write any backend code - or worry about scaling that backend.
-
-- **[Helios](http://helios.io)**
-An extensible open-source backend framework for iOS apps from Mattt Thompson. Helios is built on the Rack webserver interface and is comprised of a collection of backend components that you can mix and match to provide features including data synchronisation, push notifications, in-app purchases, Passbook, Newstand, logging and analytics.
 
 - **[Kii](https://en.kii.com/platform)**
 With Kii’s mobile backend, create scalable, high performance mobile apps for various operating systems that all connect with your device seamlessly. With a complete set of built-in development tools, reduce your app development time from months to hours.
@@ -69,12 +61,6 @@ An alternative backend-as-a-service provider very similar to Parse. Like Parse, 
 
 - **[Kumulos](http://www.kumulos.com)**
 Kumulos supports all the major devices and platforms. Whether your project is working with native, hybrid or web development tools Kumulos has libraries for you to download and install within your mobile app. Our drag and drop interface makes it easy to build your database tables, create a method, build your API and download bindings in minutes.
-
-- **[Kuzzle](http://kuzzle.io)** :zap:
-Kuzzle is an open-source back-end as a service (BaaS). Kuzzle combines a high level API, a database, a real-time engine, subscription and notification mechanisms as well as some advanced search features. The API is accessible through several standard protocols.
-
-- **[LoopBack](http://loopback.io)** :zap:
-LoopBack is an open source Node.js framework built on top of Express optimized for building APIs for mobile, web, and other devices. Connect to multiple data sources, write business logic in Node.js, glue on top of your existing services and data, connect using JS, iOS & Android SDKs.
 
 - **[OneSignal](https://www.onesignal.com/parse)**
 OneSignal is a completely free push notification delivery service. We fund our product development through products offered to enterprise clients. We provide a suite of APIs and tools for mobile developers to send, schedule, localize, and A/B test their notification campaigns. Our highly reliable service has all the features of Parse and developers can use our Parse data importer to ease their switch.
@@ -88,7 +74,23 @@ Stamplay help developers to build serverless app by using API as Lego blocks. It
 - **[Telerik](http://www.telerik.com/platform/backend-services)**
 Telerik Backend Services is equipped with a robust set of security measures to encrypt and securely transport data from all communications. As your business needs grow, you can be sure that Telerik Backend Services will scale to meet your requirements.
 
-###Parse Server providers 
+###Open-source solutions
+
+- **[Apache Usergrid](http://usergrid.apache.org)**
+Usergrid is an open-source Backend-as-a-Service (“BaaS” or “mBaaS”) composed of an integrated distributed NoSQL database, application layer and client tier with SDKs for developers looking to rapidly build web and/or mobile applications. It provides elementary services (user registration & management, data storage, file storage, queues) and retrieval features (full text search, geolocation search, joins) to power common app features.
+
+- **[Couchbase Mobile](http://developer.couchbase.com/mobile)** :zap: A full-stack open-source NoSQL database. It includes an embedded database (for iOS, OS X, tvOS, watchOS, Android, Linux, Windows, Unity, Xamarin, PhoneGap/Cordova, and HTML5), a database server, multi-master replication with automatic and custom conflict resolution, fine-grained user/role based security, pluggable authentication, web-hooks, REST APIs, and Stream/Batch APIs. Apps using Couchbase Mobile work offline with data being automatically synchronized between the embedded databases and database server. It is designed to be easily integrated with other systems.
+
+- **[Helios](http://helios.io)**
+An extensible open-source backend framework for iOS apps from Mattt Thompson. Helios is built on the Rack webserver interface and is comprised of a collection of backend components that you can mix and match to provide features including data synchronisation, push notifications, in-app purchases, Passbook, Newstand, logging and analytics.
+
+- **[Kuzzle](http://kuzzle.io)** :zap:
+Kuzzle is an open-source back-end as a service (BaaS). Kuzzle combines a high level API, a database, a real-time engine, subscription and notification mechanisms as well as some advanced search features. The API is accessible through several standard protocols.
+
+- **[LoopBack](http://loopback.io)** :zap:
+LoopBack is an open-source Node.js framework built on top of Express optimized for building APIs for mobile, web, and other devices. Connect to multiple data sources, write business logic in Node.js, glue on top of your existing services and data, connect using JS, iOS & Android SDKs.
+
+###Parse Server providers
 
 - **[Google Cloud Platform](https://cloud.google.com/nodejs/resources/frameworks/parse-server)**
 You can migrate your app from the hosted Parse backend to Google App Engine by running Node.js on App Engine Managed VMs and using MongoDB preinstalled on a Compute Engine VM instance or by using MongoLab.
