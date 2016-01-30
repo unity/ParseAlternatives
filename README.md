@@ -62,6 +62,9 @@ With Kii’s mobile backend, create scalable, high performance mobile apps for v
 - **[Kinvey](http://www.kinvey.com)**
 An alternative backend-as-a-service provider very similar to Parse. Like Parse, it offers cloud storage, push notifications and custom business logic, but also provides an out-of-the-box implementation of Facebook Open Graph for apps that don't have websites.
 
+- **[Kony](http://www.kony.com/solutions/mbaas)**
+As a leading MBaaS solution, Kony MobileFabric addresses a wide range of enterprise mobility requirements, from identity management to analytics, service orchestration to security. Its key components include: Open SDKs, Mobile backend services, Cloud foundation services, App services.
+
 - **[PubNub](https://www.pubnub.com)** :zap:
 PubNub powers low-latency messaging across any device, any platform, anywhere in the world. Use our simple APIs and SDKs to connect, build, and scale realtime applications on the PubNub Data Stream Network. Focus on shipping a great product instead of building and managing expensive data streaming infrastructure.
 
