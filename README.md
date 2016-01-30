@@ -71,9 +71,6 @@ Backend-as-a-service focused on a powerful interface for creating your database 
 - **[Telerik](http://www.telerik.com/platform/backend-services)**
 Telerik Backend Services is equipped with a robust set of security measures to encrypt and securely transport data from all communications. As your business needs grow, you can be sure that Telerik Backend Services will scale to meet your requirements.
 
-- **[Heroic Labs](https://heroiclabs.com)**
-Heroic's API makes it easy for developers to rapidly add social and competitive features to apps/games without the need for a server backend. The API is designed and optimised for high volume mobile apps/games, and readily provides all the necessary features without requiring additional code or configuration on top of basic building blocks. Checkout this [comparison page](https://heroiclabs.com/parse-alternative/) for more details.
-
 ###Open-source solutions
 
 - **[Apache Usergrid](http://usergrid.apache.org)**
@@ -111,3 +108,8 @@ Pushwoosh is a multi-platform push notifications service, which enables develope
 
 - **[Urban Airship](https://www.urbanairship.com)**
 Urban Airship helps leading brands engage their mobile users and build high-value relationships from the moment customers download an app. Thousands of companies and some of the most demanding brands in retail, media & entertainment, sports and travel & hospitality, trust Urban Airship to deliver the mobile moments that matter to their customers and to their business.
+
+###Backends for Game developers
+
+- **[Heroic Labs](https://heroiclabs.com)**
+Heroic's API makes it easy for developers to rapidly add social and competitive features to apps/games without the need for a server backend. The API is designed and optimised for high volume mobile apps/games, and readily provides all the necessary features without requiring additional code or configuration on top of basic building blocks.
