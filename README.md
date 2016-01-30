@@ -51,7 +51,7 @@ CloudKit is a framework that replaces back-end web services like old-school data
 Instantly embed mobile services such as: push notification, geolocation, social, SMS and personal fitness data with out-of-box support for mission critical APIs & web services. Make sure your mobile experience is enjoyed across all devices with support for iOS, Android, Microsoft, mobile web (HTML5), and cross-platform UI toolsets.
 
 - **[Firebase](https://www.firebase.com)** :zap:
-A backend as a service that provides an API to both store and sync data in realtime across all your clients. When data changes, apps built with Firebase update instantly across every device - web or mobile. Firebase-powered apps also work offline, data is automatically synchronized when your app regains connectivity. With Firebase you don't need to write any backend code - or worry about scaling that backend.
+You can store & sync data with Firebase NoSQL cloud database. Data is stored as JSON, synced to all connected clients in realtime, and available when your app goes offline. You can also authenticate users with email & password, Facebook, Twitter, GitHub, Google, anonymous auth, or easily integrate with your existing authentication system.
 
 - **[Kii](https://en.kii.com/platform)**
 With Kii’s mobile backend, create scalable, high performance mobile apps for various operating systems that all connect with your device seamlessly. With a complete set of built-in development tools, reduce your app development time from months to hours.
