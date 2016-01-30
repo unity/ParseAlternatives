@@ -24,7 +24,7 @@ The AnyPresence MBaaS is focused on simplifying the process of building enterpri
 The BaaS Framework you run. Build Apps not Servers! Whether you need to support one App or a hundred, Usergrid is your backend. As easy as a LAMP stack, but built for mobile. Get Apps to production in record time and stop wasting cycles writing server-side code.  Complete SDKs for iOS, Android, HTML5/JS, Node.js, Ruby, Java, .NET, and PHP. Open source since 2011.
 
 - **[ApiOmat](https://apiomat.com)**
-ApiOmat enables your enterprise processes to function as mobile applications. We mobilize complex business structures and processes by offering a mobile backend as a service solution that connects existing IT-systems with mobile applications and devices. The mobile backend as a service can be directly installed in a company’s data center, with connectors operating as a secure linkage to IT systems. This allows employees to work with data via apps and digital instances irrespective of where they are. 
+ApiOmat enables your enterprise processes to function as mobile applications. We mobilize complex business structures and processes by offering a mobile backend as a service solution that connects existing IT-systems with mobile applications and devices. The mobile backend as a service can be directly installed in a company’s data center, with connectors operating as a secure linkage to IT systems. This allows employees to work with data via apps and digital instances irrespective of where they are.
 
 - **[Appery.io](https://appery.io/backendservices)**
 Integrated mobile backend services (MBaaS), so you can focus on your apps, not infrastructure, including database, push, and server code.
@@ -33,7 +33,7 @@ Integrated mobile backend services (MBaaS), so you can focus on your apps, not i
 AppWooDoo offers a simple yet powerful real-time database and push notifications backend server. Compatible for iOS and Android.
 
 - **[Appcelerator Arrow](http://www.appcelerator.com/mobile-app-development-products/mbaas-arrow)** :zap:
-A next-gen MBaaS, Arrow consists of two primary components, Builder and Cloud. Arrow Builder lets developers rapidly assemble APIs, data models and data connectors either via visual wizard or programmatically. Arrow Cloud delivers an instant, elastically scalable cloud service for running APIs and analyzing their use, as well as full support for rich push notifications and 20+ other services (e.g. geo, photo storage, etc) along with ArrowDB, which provides a schema-less data store. 
+A next-gen MBaaS, Arrow consists of two primary components, Builder and Cloud. Arrow Builder lets developers rapidly assemble APIs, data models and data connectors either via visual wizard or programmatically. Arrow Cloud delivers an instant, elastically scalable cloud service for running APIs and analyzing their use, as well as full support for rich push notifications and 20+ other services (e.g. geo, photo storage, etc) along with ArrowDB, which provides a schema-less data store.
 
 - **[Backbeam](http://backbeam.io)** :zap:
 Backbeam offers many services that you will use to build your web and mobile applications. Backbeam is also designed to help you in your development process, not only when your application is finished.
@@ -56,7 +56,7 @@ Instantly embed mobile services such as: push notification, geolocation, social,
 - **[Couchbase Mobile](http://developer.couchbase.com/mobile)** :zap: A full-stack open-source NoSQL database. It includes an embedded database (for iOS, OS X, tvOS, watchOS, Android, Linux, Windows, Unity, Xamarin, PhoneGap/Cordova, and HTML5), a database server, multi-master replication with automatic and custom conflict resolution, fine-grained user/role based security, pluggable authentication, web-hooks, REST APIs, and Stream/Batch APIs. Apps using Couchbase Mobile work offline with data being automatically synchronized between the embedded databases and database server. It is designed to be easily integrated with other systems.
 
 - **[Contentful](https://www.contentful.com)**
-Contentful is a backend as a service focused on editorial / curated content. Developers use specialized REST APIs and SDKs for content management (defining content types, versioning, translations, workflows), content synchronization (offline support) or content delivery (built-in CDN) to web or mobile apps. Great use cases for Contentful include the distribution of articles, product information, points of interest, or app FAQs across many different platforms. 
+Contentful is a backend as a service focused on editorial / curated content. Developers use specialized REST APIs and SDKs for content management (defining content types, versioning, translations, workflows), content synchronization (offline support) or content delivery (built-in CDN) to web or mobile apps. Great use cases for Contentful include the distribution of articles, product information, points of interest, or app FAQs across many different platforms.
 
 - **[Firebase](https://www.firebase.com)** :zap:
 A backend as a service that provides an API to both store and sync data in realtime across all your clients. When data changes, apps built with Firebase update instantly across every device - web or mobile. Firebase-powered apps also work offline, data is automatically synchronized when your app regains connectivity. With Firebase you don't need to write any backend code - or worry about scaling that backend.
@@ -85,11 +85,14 @@ Kuzzle is an open-source back-end as a service (BaaS). Kuzzle combines a high le
 - **[LoopBack](http://loopback.io)** :zap:
 LoopBack is an open source Node.js framework built on top of Express optimized for building APIs for mobile, web, and other devices. Connect to multiple data sources, write business logic in Node.js, glue on top of your existing services and data, connect using JS, iOS & Android SDKs.
 
+- **[OneSignal](https://www.onesignal.com/parse)**
+OneSignal is a completely free push notification delivery service. We fund our product development through products offered to enterprise clients. We provide a suite of APIs and tools for mobile developers to send, schedule, localize, and A/B test their notification campaigns. Our highly reliable service has all the features of Parse and developers can use our Parse data importer to ease their switch.
+
 - **[PubNub](https://www.pubnub.com)** :zap:
 PubNub powers low-latency messaging across any device, any platform, anywhere in the world. Use our simple APIs and SDKs to connect, build, and scale realtime applications on the PubNub Data Stream Network. Focus on shipping a great product instead of building and managing expensive data streaming infrastructure.
 
 - **[Stamplay](https://stamplay.com)**
-Stamplay help developers to build serverless app by using API as Lego blocks. It provides built in 3rd party API integrations (Stripe, Sendgrid, Twilio, PubNub, Firebase, Mixpanel..)and out-of-the-box functionalities like cloud storage, high level API, User API (auth + social login + RBAC), Cloud Code and Webhooks. Also you can automate most of your back-end logic with an if-this-then-that style editor to make your back-end development even faster. 
+Stamplay help developers to build serverless app by using API as Lego blocks. It provides built in 3rd party API integrations (Stripe, Sendgrid, Twilio, PubNub, Firebase, Mixpanel) and out-of-the-box functionalities like cloud storage, high level API, User API (auth + social login + RBAC), Cloud Code and Webhooks. Also you can automate most of your back-end logic with an if-this-then-that style editor to make your back-end development even faster.
 
 - **[Telerik](http://www.telerik.com/platform/backend-services)**
 Telerik Backend Services is equipped with a robust set of security measures to encrypt and securely transport data from all communications. As your business needs grow, you can be sure that Telerik Backend Services will scale to meet your requirements.
