@@ -55,9 +55,6 @@ Instantly embed mobile services such as: push notification, geolocation, social,
 
 - **[Couchbase Mobile](http://developer.couchbase.com/mobile)** :zap: A full-stack open-source NoSQL database. It includes an embedded database (for iOS, OS X, tvOS, watchOS, Android, Linux, Windows, Unity, Xamarin, PhoneGap/Cordova, and HTML5), a database server, multi-master replication with automatic and custom conflict resolution, fine-grained user/role based security, pluggable authentication, web-hooks, REST APIs, and Stream/Batch APIs. Apps using Couchbase Mobile work offline with data being automatically synchronized between the embedded databases and database server. It is designed to be easily integrated with other systems.
 
-- **[Contentful](https://www.contentful.com)**
-Contentful is a backend as a service focused on editorial / curated content. Developers use specialized REST APIs and SDKs for content management (defining content types, versioning, translations, workflows), content synchronization (offline support) or content delivery (built-in CDN) to web or mobile apps. Great use cases for Contentful include the distribution of articles, product information, points of interest, or app FAQs across many different platforms.
-
 - **[Firebase](https://www.firebase.com)** :zap:
 A backend as a service that provides an API to both store and sync data in realtime across all your clients. When data changes, apps built with Firebase update instantly across every device - web or mobile. Firebase-powered apps also work offline, data is automatically synchronized when your app regains connectivity. With Firebase you don't need to write any backend code - or worry about scaling that backend.
 
