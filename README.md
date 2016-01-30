@@ -11,6 +11,7 @@ As you may noticed [Parse](http://blog.parse.com/announcements/moving-on) will b
 - User Administration
 - Cloud Code integration
 - Multiple mobile platform SDKs
+- Background jobs
 
 The real-time providers are marked with :zap: icon.
 
