@@ -103,7 +103,7 @@ GameSparks is a cloud-based platform on which to build ALL the server-side compo
 - **[Heroic Labs](https://heroiclabs.com)**
 Heroic's API makes it easy for developers to rapidly add social and competitive features to apps/games without the need for a server backend. The API is designed and optimised for high volume mobile apps/games, and readily provides all the necessary features without requiring additional code or configuration on top of basic building blocks.
 
-- **[Photon](https://www.photonengine.com)**
+- **[Photon](https://www.photonengine.com)** :zap:
 Easily Add Multiplayer to Your Games, Run Them in the Global Photon Cloud or Host Your Own Photon Servers. Fast, reliable, scalable. Made for anyone: indies, professional studios and AAA productions.
 
 - **[PlayFab](https://playfab.com)**
@@ -117,9 +117,11 @@ Usergrid is an open-source Backend-as-a-Service (“BaaS” or “mBaaS”) comp
 - **[BAASBOX](http://www.baasbox.com)**
 BASSBOX provides a web administrative console, user management API and signup with Facebook and Google+, content managment with grant/revoke permissions on documents on user and roles, geospatial queries, store big file, file custom metadata and file links, integrated friendship APIs based on "following" concept, push notification for iOS and Android, Server scripting for extending the features via plugins.
 
-- **[Couchbase Mobile](http://developer.couchbase.com/mobile)** :zap: A full-stack open-source NoSQL database. It includes an embedded database (for iOS, OS X, tvOS, watchOS, Android, Linux, Windows, Unity, Xamarin, PhoneGap/Cordova, and HTML5), a database server, multi-master replication with automatic and custom conflict resolution, fine-grained user/role based security, pluggable authentication, web-hooks, REST APIs, and Stream/Batch APIs. Apps using Couchbase Mobile work offline with data being automatically synchronized between the embedded databases and database server. It is designed to be easily integrated with other systems.
+- **[Couchbase Mobile](http://developer.couchbase.com/mobile)** :zap:
+A full-stack open-source NoSQL database. It includes an embedded database (for iOS, OS X, tvOS, watchOS, Android, Linux, Windows, Unity, Xamarin, PhoneGap/Cordova, and HTML5), a database server, multi-master replication with automatic and custom conflict resolution, fine-grained user/role based security, pluggable authentication, web-hooks, REST APIs, and Stream/Batch APIs. Apps using Couchbase Mobile work offline with data being automatically synchronized between the embedded databases and database server. It is designed to be easily integrated with other systems.
 
-- **[GUN](http://gun.js.org/)** :zap: GUN is a highly modular, open-source, real-time, offline-first, distributed cache storage engine.  By default gun uses localStorage for data storage, but with [gun-level](https://github.com/PsychoLlama/gun-level) there are [many more data storage engines](https://github.com/Level/levelup/wiki/Modules#storage) just a module away. GUN defaults to pushing all data. The gun team is regularly releasing new modules, new and improved functionality, and improving performance. If you have any questions, please feel free to ping the team on [Gitter](https://gitter.im/amark/gun).
+- **[GUN](http://gun.js.org/)** :zap:
+GUN is a highly modular, open-source, real-time, offline-first, distributed cache storage engine.  By default gun uses localStorage for data storage, but with [gun-level](https://github.com/PsychoLlama/gun-level) there are [many more data storage engines](https://github.com/Level/levelup/wiki/Modules#storage) just a module away. GUN defaults to pushing all data. The gun team is regularly releasing new modules, new and improved functionality, and improving performance. If you have any questions, please feel free to ping the team on [Gitter](https://gitter.im/amark/gun).
 
 - **[Helios](http://helios.io)**
 An extensible open-source backend framework for iOS apps from Mattt Thompson. Helios is built on the Rack webserver interface and is comprised of a collection of backend components that you can mix and match to provide features including data synchronisation, push notifications, in-app purchases, Passbook, Newstand, logging and analytics.
