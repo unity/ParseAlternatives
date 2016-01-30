@@ -71,6 +71,9 @@ PubNub powers low-latency messaging across any device, any platform, anywhere in
 - **[Telerik](http://www.telerik.com/platform/backend-services)**
 Telerik Backend Services is equipped with a robust set of security measures to encrypt and securely transport data from all communications. As your business needs grow, you can be sure that Telerik Backend Services will scale to meet your requirements.
 
+- **[Heroic Labs](https://heroiclabs.com)**
+Heroic's API makes it easy for developers to rapidly add social and competitive features to apps/games without the need for a server backend. The API is designed and optimised for high volume mobile apps/games, and readily provides all the necessary features without requiring additional code or configuration on top of basic building blocks. Checkout this [comparison page](https://heroiclabs.com/parse-alternative/) for more details.
+
 ###Open-source solutions
 
 - **[Apache Usergrid](http://usergrid.apache.org)**
