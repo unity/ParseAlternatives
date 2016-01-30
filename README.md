@@ -68,9 +68,6 @@ As a leading MBaaS solution, Kony MobileFabric addresses a wide range of enterpr
 - **[PubNub](https://www.pubnub.com)** :zap:
 PubNub powers low-latency messaging across any device, any platform, anywhere in the world. Use our simple APIs and SDKs to connect, build, and scale realtime applications on the PubNub Data Stream Network. Focus on shipping a great product instead of building and managing expensive data streaming infrastructure.
 
-- **[Syncano](https://www.syncano.io/)**
-Syncano is a highly customizable BaaS that greatly reduces the need for backend code and middleware so developers can focus on building exceptional user experiences.
-
 - **[Telerik](http://www.telerik.com/platform/backend-services)**
 Telerik Backend Services is equipped with a robust set of security measures to encrypt and securely transport data from all communications. As your business needs grow, you can be sure that Telerik Backend Services will scale to meet your requirements.
 
@@ -97,9 +94,6 @@ You can migrate your app from the hosted Parse backend to Google App Engine by r
 
 - **[IBM Bluemix](https://developer.ibm.com/clouddataservices/2016/01/29/parse-on-ibm-bluemix)**
 Bluemix is IBM's platform service, built with Cloud Foundry and running on IBM SoftLayer. It supports the Node.js runtime required for Parse Server. Bluemix also comes with many database options, including MongoDB from IBM's Compose.io acquisition. Link includes migration instructions.
-
-- **[Parse Hosting](http://parsehosting.net)**
-Coming soon
 
 ###Push notification providers
 
