@@ -65,6 +65,9 @@ An alternative backend-as-a-service provider very similar to Parse. Like Parse, 
 - **[PubNub](https://www.pubnub.com)** :zap:
 PubNub powers low-latency messaging across any device, any platform, anywhere in the world. Use our simple APIs and SDKs to connect, build, and scale realtime applications on the PubNub Data Stream Network. Focus on shipping a great product instead of building and managing expensive data streaming infrastructure.
 
+- **[Restdb.io](https://restdb.io)**
+Backend-as-a-service focused on a powerful interface for creating your database models and providing a JSON REST API.
+
 - **[Telerik](http://www.telerik.com/platform/backend-services)**
 Telerik Backend Services is equipped with a robust set of security measures to encrypt and securely transport data from all communications. As your business needs grow, you can be sure that Telerik Backend Services will scale to meet your requirements.
 
