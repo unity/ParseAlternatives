@@ -68,9 +68,6 @@ OneSignal is a completely free push notification delivery service. We fund our p
 - **[PubNub](https://www.pubnub.com)** :zap:
 PubNub powers low-latency messaging across any device, any platform, anywhere in the world. Use our simple APIs and SDKs to connect, build, and scale realtime applications on the PubNub Data Stream Network. Focus on shipping a great product instead of building and managing expensive data streaming infrastructure.
 
-- **[Stamplay](https://stamplay.com)**
-Stamplay help developers to build serverless app by using API as Lego blocks. It provides built in 3rd party API integrations (Stripe, Sendgrid, Twilio, PubNub, Firebase, Mixpanel) and out-of-the-box functionalities like cloud storage, high level API, User API (auth + social login + RBAC), Cloud Code and Webhooks. Also you can automate most of your back-end logic with an if-this-then-that style editor to make your back-end development even faster.
-
 - **[Telerik](http://www.telerik.com/platform/backend-services)**
 Telerik Backend Services is equipped with a robust set of security measures to encrypt and securely transport data from all communications. As your business needs grow, you can be sure that Telerik Backend Services will scale to meet your requirements.
 
