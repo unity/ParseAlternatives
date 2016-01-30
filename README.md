@@ -90,6 +90,11 @@ Kuzzle is an open-source back-end as a service (BaaS). Kuzzle combines a high le
 - **[LoopBack](http://loopback.io)** :zap:
 LoopBack is an open-source Node.js framework built on top of Express optimized for building APIs for mobile, web, and other devices. Connect to multiple data sources, write business logic in Node.js, glue on top of your existing services and data, connect using JS, iOS & Android SDKs.
 
+- **[Marlin](http://atmb4u.github.io/marlin/)** :zap:
+Marlin is a  fast REST API library built on top of redis server. Its has no specific clients like Android or iOS. But it has got developer API for custom APIs which can be written in Python (https://github.com/atmb4u/marlin)
+
+
+
 ###Parse Server providers
 
 - **[Google Cloud Platform](https://cloud.google.com/nodejs/resources/frameworks/parse-server)**
