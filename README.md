@@ -59,9 +59,6 @@ With Kii’s mobile backend, create scalable, high performance mobile apps for v
 - **[Kinvey](http://www.kinvey.com)**
 An alternative backend-as-a-service provider very similar to Parse. Like Parse, it offers cloud storage, push notifications and custom business logic, but also provides an out-of-the-box implementation of Facebook Open Graph for apps that don't have websites.
 
-- **[Kumulos](http://www.kumulos.com)**
-Kumulos supports all the major devices and platforms. Whether your project is working with native, hybrid or web development tools Kumulos has libraries for you to download and install within your mobile app. Our drag and drop interface makes it easy to build your database tables, create a method, build your API and download bindings in minutes.
-
 - **[PubNub](https://www.pubnub.com)** :zap:
 PubNub powers low-latency messaging across any device, any platform, anywhere in the world. Use our simple APIs and SDKs to connect, build, and scale realtime applications on the PubNub Data Stream Network. Focus on shipping a great product instead of building and managing expensive data streaming infrastructure.
 
