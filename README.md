@@ -62,9 +62,6 @@ An alternative backend-as-a-service provider very similar to Parse. Like Parse, 
 - **[Kumulos](http://www.kumulos.com)**
 Kumulos supports all the major devices and platforms. Whether your project is working with native, hybrid or web development tools Kumulos has libraries for you to download and install within your mobile app. Our drag and drop interface makes it easy to build your database tables, create a method, build your API and download bindings in minutes.
 
-- **[OneSignal](https://www.onesignal.com/parse)**
-OneSignal is a completely free push notification delivery service. We fund our product development through products offered to enterprise clients. We provide a suite of APIs and tools for mobile developers to send, schedule, localize, and A/B test their notification campaigns. Our highly reliable service has all the features of Parse and developers can use our Parse data importer to ease their switch.
-
 - **[PubNub](https://www.pubnub.com)** :zap:
 PubNub powers low-latency messaging across any device, any platform, anywhere in the world. Use our simple APIs and SDKs to connect, build, and scale realtime applications on the PubNub Data Stream Network. Focus on shipping a great product instead of building and managing expensive data streaming infrastructure.
 
@@ -94,3 +91,8 @@ You can migrate your app from the hosted Parse backend to Google App Engine by r
 
 - **[IBM Bluemix](https://developer.ibm.com/clouddataservices/2016/01/29/parse-on-ibm-bluemix/)**
 Bluemix is IBM's platform service, built with Cloud Foundry and running on IBM SoftLayer. It supports the Node.js runtime required for Parse Server. Bluemix also comes with many database options, including MongoDB from IBM's Compose.io acquisition. Link includes migration instructions.
+
+###Push notification providers
+
+- **[OneSignal](https://www.onesignal.com/parse)**
+OneSignal is a completely free push notification delivery service. We fund our product development through products offered to enterprise clients. We provide a suite of APIs and tools for mobile developers to send, schedule, localize, and A/B test their notification campaigns. Our highly reliable service has all the features of Parse and developers can use our Parse data importer to ease their switch.
