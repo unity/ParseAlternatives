@@ -91,10 +91,10 @@ Bluemix is IBM's platform service, built with Cloud Foundry and running on IBM S
 
 ###Push notification providers
 
-- **[Batch](https://batch.com/parse-alternative)**
-Batch is an improved version of Parse Push: not only the back-end & API part but also a marketer-friendly dashboard with all the necessary targeting options to replace Parse’s « channels ».
+- **[Batch](https://batch.com)**
+Batch is a push notification platform built around predictive analytics and smart segmentation algorithms. With Batch, you can efficiently send transactional (one to one) and marketing notifications (one to many) while leveraging our other modules to run a successful retention strategy.
 
-- **[OneSignal](https://www.onesignal.com/parse)**
+- **[OneSignal](https://www.onesignal.com)**
 OneSignal is a completely free push notification delivery service. We fund our product development through products offered to enterprise clients. We provide a suite of APIs and tools for mobile developers to send, schedule, localize, and A/B test their notification campaigns. Our highly reliable service has all the features of Parse and developers can use our Parse data importer to ease their switch.
 
 - **[Pushwoosh](https://www.pushwoosh.com)**
