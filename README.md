@@ -109,6 +109,9 @@ Easily Add Multiplayer to Your Games, Run Them in the Global Photon Cloud or Hos
 - **[PlayFab](https://playfab.com)**
 PlayFab offers the most complete backend platform built exclusively for live games. Start integrating with your mobile, PC, or console game for free, and go live for a fraction of the cost of one backend engineer. You bring the fun, we'll do the rest.
 
+- **[SmartFoxServer](http://www.smartfoxserver.com)** :zap:
+SmartFoxServer is a comprehensive SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++ and more. SmartFoxServer comes with a rich set of features, an impressive documentation set, tens of examples with their source, powerful administration tools and a very active support forum.
+
 ###Open-source solutions
 
 - **[Apache Usergrid](http://usergrid.apache.org)**
