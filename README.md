@@ -139,7 +139,7 @@ Heroic's API makes it easy for developers to rapidly add social and competitive 
 Easily Add Multiplayer to Your Games, Run Them in the Global Photon Cloud or Host Your Own Photon Servers. Fast, reliable, scalable. Made for anyone: indies, professional studios and AAA productions.
 
 - **[PlayFab](https://playfab.com)**
-PlayFab offers the most complete backend platform built exclusively for live games. Start integrating with your mobile, PC, or console game for free, and go live for a fraction of the cost of one backend engineer. You bring the fun, we'll do the rest.
+PlayFab offers the most complete backend platform built exclusively for live games. Core services include player management, content management, in-game commerce, in-game marketing, multiplayer, basic reporting, and more. The Add-On Marketplace provides pre-integrated services from other companies, such as community tools, advanced analytics, attribution tracking, in-game advertising, and more. Best of all, it’s free for unlimited players — pay only for premium support and enterprise features. Start integrating with your mobile, PC, or console game today. You bring the fun, we'll do the rest.
 
 - **[SmartFoxServer](http://www.smartfoxserver.com)** :zap:
 SmartFoxServer is a comprehensive SDK for rapidly developing multiplayer games and applications with Adobe Flash/Flex/Air, Unity, HTML5, iOS, Windows Phone 8, Android, Java, Windows 8, C++ and more. SmartFoxServer comes with a rich set of features, an impressive documentation set, tens of examples with their source, powerful administration tools and a very active support forum.
