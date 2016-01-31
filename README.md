@@ -29,6 +29,9 @@ Integrated mobile backend services (MBaaS), so you can focus on your apps, not i
 - **[AppWooDoo](http://www.appwoodoo.com)** :zap:
 AppWooDoo offers a simple yet powerful real-time database and push notifications backend server. Compatible for iOS and Android.
 
+- **[AWS Mobile Hub](https://aws.amazon.com/mobile/)**
+Easily add and configure features for your mobile apps, including user authentication, data storage, backend logic, push notifications, content delivery, and analytics. After you build your app, AWS Mobile Hub gives you easy access to testing on real devices, as well as analytics dashboards to track usage of your app.
+
 - **[Appcelerator Arrow](http://www.appcelerator.com/mobile-app-development-products/mbaas-arrow)** :zap:
 A next-gen MBaaS, Arrow consists of two primary components, Builder and Cloud. Arrow Builder lets developers rapidly assemble APIs, data models and data connectors either via visual wizard or programmatically. Arrow Cloud delivers an instant, elastically scalable cloud service for running APIs and analyzing their use, as well as full support for rich push notifications and 20+ other services (e.g. geo, photo storage, etc) along with ArrowDB, which provides a schema-less data store.
 
