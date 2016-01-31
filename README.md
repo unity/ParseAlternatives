@@ -110,6 +110,11 @@ Taplytics is a fully integrated mobile A/B testing, push notification, and analy
 - **[Urban Airship](https://www.urbanairship.com)**
 Urban Airship helps leading brands engage their mobile users and build high-value relationships from the moment customers download an app. Thousands of companies and some of the most demanding brands in retail, media & entertainment, sports and travel & hospitality, trust Urban Airship to deliver the mobile moments that matter to their customers and to their business.
 
+###Analytics and Push notification providers
+
+- **[CleverTap](https://clevertap.com)**
+CleverTap lets you do app analytics at incredible speeds, and engage with your users via push notifications, in-app messages, emails or web notifications. You can use it to personalize all your interactions with users, across all channels. It does automatic uninstall tracking - with an ability to reach out to the users who've uninstalled the app for product feedback. Parse users can migrate to CleverTap in two simple steps with zero downtime.
+
 ###Backends for Game developers
 
 - **[Applicasa](http://applicasa.com)**
