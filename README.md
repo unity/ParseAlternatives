@@ -35,6 +35,9 @@ AppWooDoo offers a simple yet powerful real-time database and push notifications
 - **[AWS Mobile Hub](https://aws.amazon.com/mobile)**
 AWS Mobile Hub lets you easily add and configure features for your mobile apps, including user authentication, data storage, backend logic, push notifications, content delivery, and analytics. After you build your app, AWS Mobile Hub gives you easy access to testing on real devices, as well as analytics dashboards to track usage of your app.
 
+- **[Backand](http://backand.com)** :
+Backand is a powerful backend-as-a-service that provides out-of-the-box social login, Database with automatic REST APIs, Server side logic, sorage, hosting, geo, Ionic integration and much more
+
 - **[Backbeam](http://backbeam.io)** :zap:
 Backbeam offers many services that you will use to build your web and mobile applications. Backbeam is also designed to help you in your development process, not only when your application is finished.
 
