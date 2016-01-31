@@ -88,6 +88,9 @@ Telerik Backend Services is equipped with a robust set of security measures to e
 
 ###Push notification providers
 
+- **[Appboy](https://www.appboy.com)**
+Appboy is an industry-leading customer relationship suite for mobile marketers. Thousands of global brands use Appboy's robust audience segmentation and advanced multi-channel messaging system to create highly personalized lifecycle marketing campaigns in every relevant channel -- from push, in-app, and web to email, wearables, and emerging technologies -- across billions of user profiles worldwide to better engage, retain, and monetize their customers.
+
 - **[Batch](https://batch.com)**
 Batch is a push notification platform built around predictive analytics and smart segmentation algorithms. With Batch, you can efficiently send transactional (one to one) and marketing notifications (one to many) while leveraging our other modules to run a successful retention strategy.
 
