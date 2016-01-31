@@ -121,13 +121,16 @@ CleverTap lets you do app analytics at incredible speeds, and engage with your u
 - **[Countly](https://count.ly/)**
 End-to-end platform for web, mobile applications and game analytics.
 
-- **[Google Analytics for Mobile Apps](https://www.google.com/analytics/mobile/)**
+- **[Flurry by Yahoo](https://developer.yahoo.com/analytics/)** :zap:
+Measure, track and analyze app performance, user acquisition and activity with Flurry Analytics.
+
+- **[Google Analytics for Mobile Apps](https://www.google.com/analytics/mobile/)** :zap:
 Google Analytics for Mobile Apps lets you measure the full value of your app across all key stages, from first discovery and download to in-app conversions. See what keeps your users engaged and learn how you can make them happier – and your app more successful.
 
 - **[Localytics](https://www.localytics.com/)**
 Our Mobile Engagement Platform brings together User Insights, Smart Targeting & Marketing Automation to power great user engagement.
 
-- **[Mixpanel](https://mixpanel.com/)**
+- **[Mixpanel](https://mixpanel.com/)** :zap:
 Learn how people use your app with the world's most advanced mobile & web analytics.
 
 - **[Taplytics](https://taplytics.com)** 
