@@ -112,6 +112,9 @@ Urban Airship helps leading brands engage their mobile users and build high-valu
 
 ###Analytics providers
 
+- **[Amazon Mobile Analytics](https://aws.amazon.com/pt/mobileanalytics/)** :zap:
+With Amazon Mobile Analytics, you can measure app usage and app revenue. By tracking key trends such as new vs. returning users, app revenue, user retention, and custom in-app behavior events, you can make data-driven decisions to increase engagement and monetization for your app. You can view key charts in the Mobile Analytics console and automatically export your app event data to Amazon S3 and Amazon Redshift to run custom analysis. Amazon Mobile Analytics is free up to 100 million events per month and just $1 per million events thereafter.
+
 - **[Appsee](https://www.appsee.com/)**
 Appsee's mobile analytics platform provides in-depth analysis of your users' behavior, allowing you to deliver the ultimate app experience.
 
@@ -121,7 +124,7 @@ CleverTap lets you do app analytics at incredible speeds, and engage with your u
 - **[Countly](https://count.ly/)**
 End-to-end platform for web, mobile applications and game analytics.
 
-- **[Flurry by Yahoo](https://developer.yahoo.com/analytics/)** :zap:
+- **[Flurry Analytics](https://developer.yahoo.com/analytics/)** :zap:
 Measure, track and analyze app performance, user acquisition and activity with Flurry Analytics.
 
 - **[Google Analytics for Mobile Apps](https://www.google.com/analytics/mobile/)** :zap:
