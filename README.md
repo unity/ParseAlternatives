@@ -62,6 +62,15 @@ With Kii’s mobile backend, create scalable, high performance mobile apps for v
 - **[Kinvey](http://www.kinvey.com)**
 An alternative backend-as-a-service provider very similar to Parse. Like Parse, it offers cloud storage, push notifications and custom business logic, but also provides an out-of-the-box implementation of Facebook Open Graph for apps that don't have websites.
 
+- **[Oracle Mobile Cloud Service](http://cloud.oracle.com/mobile)**
+Enterprise MBaaS focusing on end-to-end connectivity of mobile apps to enterprise on-premise and cloud
+applications & services (not restricted to Oracle products alone).  Built in APIs include mobile data offline and sync,
+push notifications, file storage & database layers, user management and security services, connector technologies
+supporting REST & SOAP as well as Oracle Integration Cloud Service (ICS) with adapters for many popular enterprise
+on-premise & SaaS solutions.  Other core features include the ability to create custom APIs through Node.js,
+API catalog, SDKs for Android, JavaScript, iOS & Windows, analytics as a core tenant, app & API lifecycle management,
+realtime monitoring & diagnostics.
+
 - **[PubNub](https://www.pubnub.com)** :zap:
 PubNub powers low-latency messaging across any device, any platform, anywhere in the world. Use our simple APIs and SDKs to connect, build, and scale realtime applications on the PubNub Data Stream Network. Focus on shipping a great product instead of building and managing expensive data streaming infrastructure.
 
