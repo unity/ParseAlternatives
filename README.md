@@ -3,15 +3,16 @@
 As you may noticed [Parse](http://blog.parse.com/announcements/moving-on) will be fully retired after a year-long period ending on January 28, 2017. Most of us need to find an alternative backend service for our apps. Please help the community to find a great BaaS. Contribution guidelines can be found [here](CONTRIBUTING.md).
 
 ###What features are we looking for?
-- Data storage
-- Push notifications
-- Usage analytics
+- Data Storage
+- Push Notifications
+- Usage Analytics
 - Dashboard
-- Social integration
+- Social Integration
 - User Administration
-- Cloud Code integration
-- Multiple mobile platform SDKs
-- Background jobs
+- Cloud Code Integration
+- Multiple Mobile Platform SDKs
+- Background Jobs
+- Crash Report
 
 The real-time providers are marked with :zap: icon.
 
@@ -117,6 +118,20 @@ CleverTap lets you do app analytics at incredible speeds, and engage with your u
 
 - **[Taplytics](https://taplytics.com)** 
 Taplytics is a fully integrated mobile A/B testing, push notification, and analytics platform providing the tools you need to optimize your mobile app. Taplytics supports transactional, geo, event and behavioral triggered push notifications, all of which can be a/b tested and optimized for success.
+
+###Crash Report providers
+
+- **[Crashlytics by Fabric](https://fabric.io/kits/android/crashlytics)** :zap:
+The most powerful, yet lightest weight crash reporting solution.
+
+- **[FlightRecorder](https://www.flightrecorder.io/feature/crash-reporting)** 
+With our detailed crash reports you get a great start for crushing those crashes. With our higher packages you can even do more.
+
+- **[Hockeyapp](http://hockeyapp.net/features/crashreports/)** 
+You don't want your app to crash, but it happens. And when it does, you'd better have fast and precise info about what went wrong and why. With HockeyApp, you'll get meaningful crash reports. Best of all, we regularly assess that HockeyApp has the most reliable crash reporting on the market.
+
+- **[Instabug](https://instabug.com/)** :zap:
+We provide you with a powerful realtime crash reporter, with minimum footprint. With the exact level of detail, we provide you with a full report about the running environment and the app log. We also do further server-side processing on crashes to provide you with the meaningful stack trace, and hence make it easier for you to solve the problem.
 
 ###Backends for Game developers
 
