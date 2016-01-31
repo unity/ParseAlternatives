@@ -23,17 +23,17 @@ The AnyPresence MBaaS is focused on simplifying the process of building enterpri
 - **[ApiOmat](https://apiomat.com)**
 ApiOmat enables your enterprise processes to function as mobile applications. We mobilize complex business structures and processes by offering a mobile backend as a service solution that connects existing IT-systems with mobile applications and devices. The mobile backend as a service can be directly installed in a company’s data center, with connectors operating as a secure linkage to IT systems. This allows employees to work with data via apps and digital instances irrespective of where they are.
 
+- **[Appcelerator Arrow](http://www.appcelerator.com/mobile-app-development-products/mbaas-arrow)** :zap:
+A next-gen MBaaS, Arrow consists of two primary components, Builder and Cloud. Arrow Builder lets developers rapidly assemble APIs, data models and data connectors either via visual wizard or programmatically. Arrow Cloud delivers an instant, elastically scalable cloud service for running APIs and analyzing their use, as well as full support for rich push notifications and 20+ other services (e.g. geo, photo storage, etc) along with ArrowDB, which provides a schema-less data store.
+
 - **[Appery.io](https://appery.io/backendservices)**
 Integrated mobile backend services (MBaaS), so you can focus on your apps, not infrastructure, including database, push, and server code.
 
 - **[AppWooDoo](http://www.appwoodoo.com)** :zap:
 AppWooDoo offers a simple yet powerful real-time database and push notifications backend server. Compatible for iOS and Android.
 
-- **[AWS Mobile Hub](https://aws.amazon.com/mobile/)**
-Easily add and configure features for your mobile apps, including user authentication, data storage, backend logic, push notifications, content delivery, and analytics. After you build your app, AWS Mobile Hub gives you easy access to testing on real devices, as well as analytics dashboards to track usage of your app.
-
-- **[Appcelerator Arrow](http://www.appcelerator.com/mobile-app-development-products/mbaas-arrow)** :zap:
-A next-gen MBaaS, Arrow consists of two primary components, Builder and Cloud. Arrow Builder lets developers rapidly assemble APIs, data models and data connectors either via visual wizard or programmatically. Arrow Cloud delivers an instant, elastically scalable cloud service for running APIs and analyzing their use, as well as full support for rich push notifications and 20+ other services (e.g. geo, photo storage, etc) along with ArrowDB, which provides a schema-less data store.
+- **[AWS Mobile Hub](https://aws.amazon.com/mobile)**
+AWS Mobile Hub lets you easily add and configure features for your mobile apps, including user authentication, data storage, backend logic, push notifications, content delivery, and analytics. After you build your app, AWS Mobile Hub gives you easy access to testing on real devices, as well as analytics dashboards to track usage of your app.
 
 - **[Backbeam](http://backbeam.io)** :zap:
 Backbeam offers many services that you will use to build your web and mobile applications. Backbeam is also designed to help you in your development process, not only when your application is finished.
