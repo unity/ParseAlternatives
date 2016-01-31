@@ -89,6 +89,9 @@ Batch is a push notification platform built around predictive analytics and smar
 Catapush is a simple, reliable and scalable delivery API for transactional push notifications for applications. Ideal for sending data-driven transactional notifications including targeted e-commerce and personalized one-to-one messages.
 Get delivery confirmation with real time status for each message sent and build intelligent messaging logic in your real time applications.
 
+- **[Netmera](http://www.netmera.com)**
+Netmera is a Mobile Application Engagement Platform. We offer a series of development tools and app communication features to help your mobile business ignite and soar. Our platform will increase your mobile engagement with SMART campaigns and EASY data analysis features.
+
 - **[OneSignal](https://www.onesignal.com)**
 OneSignal is a completely free push notification delivery service. We fund our product development through products offered to enterprise clients. We provide a suite of APIs and tools for mobile developers to send, schedule, localize, and A/B test their notification campaigns. Our highly reliable service has all the features of Parse and developers can use our Parse data importer to ease their switch.
 
