@@ -110,7 +110,7 @@ A cloud-based backend solution that lets you store pictures, videos, or any othe
 AppWarp is a powerful, yet simple platform for developing multiplayer real-time games and applications. We provide awesome features to developers that enable you to build seemingly complex applications with little effort.
 
 - **[brainCloud](http://getbraincloud.com)**
-brainCloud is a ready-made backend for the development of feature-rich mobile+social games and gamified apps. brainCloud features include cloud data, cloud code, push notifications, social integration, gamification, in-app purchases, pricing controls, promotions, segments, analytics, external authentication, shared accounts, dataStream architecture, scheduled jobs and more.
+brainCloud is a ready-made backend for the development of feature-rich mobile+social games and gamified apps. brainCloud features include cloud data, cloud code, push notifications, social integration, multiplayer support, matchmaking, gamification, in-app purchases, pricing controls, promotions, segments, analytics, external authentication, shared accounts, dataStream architecture, scheduled jobs and more.
 
 - **[GameSparks](http://www.gamesparks.com)**
 GameSparks is a cloud-based platform on which to build ALL the server-side components of your game, including Player Management, Social, Multiplayer, Economies and Catalogue Management, and Meta-Game systems. All features are fully customisable, and you can create any custom API and write any custom server logic. You have full database access, and sophisticated access control for different users.
