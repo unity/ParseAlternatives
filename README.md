@@ -94,6 +94,9 @@ Urban Airship helps leading brands engage their mobile users and build high-valu
 
 ###Backends for Game developers
 
+- **[Applicasa](http://applicasa.com/)** 
+A platform for game developers that offers a way to manage, promote and monetize your Virtual Store.
+
 - **[AppWarp](http://appwarp.shephertz.com)** :zap:
 AppWarp is a powerful, yet simple platform for developing multiplayer real-time games and applications. We provide awesome features to developers that enable you to build seemingly complex applications with little effort.
 
