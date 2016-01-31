@@ -71,6 +71,9 @@ An alternative backend-as-a-service provider very similar to Parse. Like Parse, 
 - **[PubNub](https://www.pubnub.com)** :zap:
 PubNub powers low-latency messaging across any device, any platform, anywhere in the world. Use our simple APIs and SDKs to connect, build, and scale realtime applications on the PubNub Data Stream Network. Focus on shipping a great product instead of building and managing expensive data streaming infrastructure.
 
+- **[Reindex](https://www.reindex.io)**
+Backend as a service with a GraphQL API. Reindex offers data storage, authentication, permissions, hooks for integrating with third-party services and custom code, and an open source SDK.
+
 - **[Restdb.io](https://restdb.io)**
 Backend-as-a-service focused on a powerful interface for creating your database models and providing a JSON REST API.
 
