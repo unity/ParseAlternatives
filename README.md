@@ -54,6 +54,9 @@ Appzio offers a full REST mobile backend, push notifications, SMS sending & mobi
 AppWooDoo offers a simple yet powerful real-time database and push notifications backend server. Compatible for iOS and Android.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/28)*)
 
+- **[Apstrata](http://www.apstrata.com)**
+Apstrata is a powerful back-end as a Service that provides multiple APIs covering: orchestration (JavaScript server-side scripting), No-SQL persistance, messaging (push notifications, email), social networks integration (Facebook, Twitter, Google+, etc.), Identity and authorizations Management. You can expose your own business logic as REST APIs in a snap. Apstrata can scale as much as your application requires it. Last but not least, it is simple to use, provides an extensive documentation and the support and forum teams are very reactive.
+
 - **[AWS Mobile Hub](https://aws.amazon.com/mobile)**
 AWS Mobile Hub lets you easily add and configure features for your mobile apps, including user authentication, data storage, backend logic, push notifications, content delivery, and analytics. After you build your app, AWS Mobile Hub gives you easy access to testing on real devices, as well as analytics dashboards to track usage of your app.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/89)*)
