@@ -217,7 +217,7 @@ Taplytics is a fully integrated mobile A/B testing, push notification, and analy
 The most powerful, yet lightest weight crash reporting solution.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/119)*)
 
-- **[Fabric](https://get.fabric.io)** 
+- **[Fabric](https://get.fabric.io)** :zap:
 Crash Reporting,Mobile Analytics,etc.
 
 - **[FlightRecorder](https://www.flightrecorder.io)** 
