@@ -113,10 +113,31 @@ Pushwoosh is a multi-platform push notifications service, which enables develope
 - **[Urban Airship](https://www.urbanairship.com)**
 Urban Airship helps leading brands engage their mobile users and build high-value relationships from the moment customers download an app. Thousands of companies and some of the most demanding brands in retail, media & entertainment, sports and travel & hospitality, trust Urban Airship to deliver the mobile moments that matter to their customers and to their business.
 
-###Analytics and Push notification providers
+###Analytics providers
+
+- **[Amazon Mobile Analytics](https://aws.amazon.com/pt/mobileanalytics/)** :zap:
+With Amazon Mobile Analytics, you can measure app usage and app revenue. By tracking key trends such as new vs. returning users, app revenue, user retention, and custom in-app behavior events, you can make data-driven decisions to increase engagement and monetization for your app. You can view key charts in the Mobile Analytics console and automatically export your app event data to Amazon S3 and Amazon Redshift to run custom analysis. Amazon Mobile Analytics is free up to 100 million events per month and just $1 per million events thereafter.
+
+- **[Appsee](https://www.appsee.com/)**
+Appsee's mobile analytics platform provides in-depth analysis of your users' behavior, allowing you to deliver the ultimate app experience.
 
 - **[CleverTap](https://clevertap.com)**
 CleverTap lets you do app analytics at incredible speeds, and engage with your users via push notifications, in-app messages, emails or web notifications. You can use it to personalize all your interactions with users, across all channels. It does automatic uninstall tracking - with an ability to reach out to the users who've uninstalled the app for product feedback. Parse users can migrate to CleverTap in two simple steps with zero downtime.
+
+- **[Countly](https://count.ly/)**
+End-to-end platform for web, mobile applications and game analytics.
+
+- **[Flurry Analytics](https://developer.yahoo.com/analytics/)** :zap:
+Measure, track and analyze app performance, user acquisition and activity with Flurry Analytics.
+
+- **[Google Analytics for Mobile Apps](https://www.google.com/analytics/mobile/)** :zap:
+Google Analytics for Mobile Apps lets you measure the full value of your app across all key stages, from first discovery and download to in-app conversions. See what keeps your users engaged and learn how you can make them happier – and your app more successful.
+
+- **[Localytics](https://www.localytics.com/)**
+Our Mobile Engagement Platform brings together User Insights, Smart Targeting & Marketing Automation to power great user engagement.
+
+- **[Mixpanel](https://mixpanel.com/)** :zap:
+Learn how people use your app with the world's most advanced mobile & web analytics.
 
 - **[Taplytics](https://taplytics.com)** 
 Taplytics is a fully integrated mobile A/B testing, push notification, and analytics platform providing the tools you need to optimize your mobile app. Taplytics supports transactional, geo, event and behavioral triggered push notifications, all of which can be a/b tested and optimized for success.
