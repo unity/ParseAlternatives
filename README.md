@@ -245,6 +245,9 @@ You don't want your app to crash, but it happens. And when it does, you'd better
 We provide you with a powerful realtime crash reporter, with minimum footprint. With the exact level of detail, we provide you with a full report about the running environment and the app log. We also do further server-side processing on crashes to provide you with the meaningful stack trace, and hence make it easier for you to solve the problem.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/122)*)
 
+- **[Xtremepush](https://xtremepush.com)**
+XtremePush is a leading mobile analytics, engagement and proximity marketing platform. The platform provides deep analytics and messaging functionality allowing brands to analyse and intelligently engage with their app users using Push notifications and In App Messaging. We also provide Geo Fencing and iBeacon technology enabling location based engagement with app users all through one easy to use platform. 
+
 ###Backends for Game developers
 
 - **[Applicasa](http://applicasa.com)**
