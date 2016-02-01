@@ -187,6 +187,10 @@ Urban Airship helps leading brands engage their mobile users and build high-valu
 
 ###Analytics providers
 
+- **[Amplitude](https://amplitude.com)** :zap:
+Simply the best analytics for mobile and web. Track everything. Store everything. Never worry about scale!
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/153)*)
+
 - **[Answers.io](https://answers.io)** :zap:
 Finally a mobile app analytics you don’t need to analyze.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/147)*)
