@@ -14,6 +14,15 @@ As you may noticed [Parse](http://blog.parse.com/announcements/moving-on) will b
 - Background Jobs
 - Crash Report
 
+###Index
+- [General purpose](#general-purpose-providers)
+- [Push Notifications](#push-notification-providers)
+- [Analytics](#analytics-providers)
+- [Crash Report](#crash-report-providers)
+- [Backend for Gamers](#backends-for-game-developers)
+- [Open-Source Solutions](#open-source-solutions)
+- [Parse Server](#parse-server-providers)
+
 The real-time providers are marked with :zap: icon.
 
 ###General purpose providers
