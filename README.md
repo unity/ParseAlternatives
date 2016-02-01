@@ -15,13 +15,13 @@ As you may noticed [Parse](http://blog.parse.com/announcements/moving-on) will b
 - Crash Report
 
 ###Index
-- [General purpose](#general-purpose-providers)
-- [Push Notifications](#push-notification-providers)
-- [Analytics](#analytics-providers)
-- [Crash Report](#crash-report-providers)
-- [Backend for Gamers](#backends-for-game-developers)
+- [General purpose providers](#general-purpose-providers)
+- [Push notification providers](#push-notification-providers)
+- [Analytics providers](#analytics-providers)
+- [Crash Report providers](#crash-report-providers)
+- [Backends for Game developers](#backends-for-game-developers)
 - [Open-Source Solutions](#open-source-solutions)
-- [Parse Server](#parse-server-providers)
+- [Parse Server providers](#parse-server-providers)
 
 The real-time providers are marked with :zap: icon.
 
