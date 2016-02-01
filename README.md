@@ -30,8 +30,8 @@ A next-gen MBaaS, Arrow consists of two primary components, Builder and Cloud. A
 - **[Appery.io](https://appery.io/backendservices)**
 Integrated mobile backend services (MBaaS), so you can focus on your apps, not infrastructure, including database, push, and server code.
 
-- **[Appzio](https://appzio.com/parse-appzio-migration/)** :zap:
-Appzio offers a full REST mobile backend, push notifications, sms sending & mobile app cms that allows logic & content changes using web admin dashboard. Integrations to Facebook, Google Analytics, Flurry and custom third party REST api's. Backend driven mobile solution with native iOS and Android client code.
+- **[Appzio](https://appzio.com)** :zap:
+Appzio offers a full REST mobile backend, push notifications, SMS sending & mobile app CMS that allows logic & content changes using web admin dashboard. Integrations to Facebook, Google Analytics, Flurry and custom third party REST api's. Backend driven mobile solution with native iOS and Android client code.
 
 - **[AppWooDoo](http://www.appwoodoo.com)** :zap:
 AppWooDoo offers a simple yet powerful real-time database and push notifications backend server. Compatible for iOS and Android.
@@ -78,7 +78,7 @@ With Kii’s mobile backend, create scalable, high performance mobile apps for v
 - **[Kinvey](http://www.kinvey.com)**
 An alternative backend-as-a-service provider very similar to Parse. Like Parse, it offers cloud storage, push notifications and custom business logic, but also provides an out-of-the-box implementation of Facebook Open Graph for apps that don't have websites.
 
-- **[Microsoft Azure Mobile App Service](https://azure.microsoft.com/en-us/services/app-service/mobile/)**
+- **[Microsoft Azure Mobile App Service](https://azure.microsoft.com/en-us/services/app-service/mobile)**
 This service comes close to Parse with its online/offline data syncing, user authentication, push notifications and cloud code.It’s easy to rapidly build engaging cross-platform and native apps for iOS, Android, Windows, or Mac.
 
 - **[PubNub](https://www.pubnub.com)** :zap:
