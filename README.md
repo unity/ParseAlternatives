@@ -76,7 +76,7 @@ A system of integrated, general purpose, mobile cloud services with native and R
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/31)*)
 
 - **[Buddy](https://buddy.com)**
-A lightweight, fast and flexible platform for collecting and processing IoT data.
+A lightweight, fast and flexible platform for collecting and processing IoT data. Also offers a mobile-focused set of APIs such as Users, Checkins, Push Notifications and Metrics.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/32)*)
 
 - **[Built.io](https://www.built.io/products/backend/overview)** :zap:
