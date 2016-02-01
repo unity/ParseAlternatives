@@ -139,13 +139,6 @@ ZetaPush is a realtime BaaS providing out of the box authentications and service
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/102)*)
 
 ###Push notification providers
-- **[AeroGear UnifiedPush Server](https://aerogear.org/getstarted/downloads/#unifiedpush)** The AeroGear UnifiedPush Server is a server that allows sending native push messages to different mobile operating systems. Currently the server supports
-* Apple’s APNs
-* Google Cloud Messaging
-* Microsoft’s Windows Push Notification service (WNS)
-* Microsoft’s Push Notification service (MPNs)
-* Amazon Device Messaging (ADM) - experimental
-The AeroGear UnifiedPush Server offers a unified Notification Service API to the above mentioned Push Network Services. When a push message request is sent to the UnifiedPush Server, it is internally translated into the format of these 3rd party networks. This gives a server the ability to send Push notifications to different mobile platforms.
 
 - **[Appboy](https://www.appboy.com)**
 Appboy is an industry-leading customer relationship suite for mobile marketers. Thousands of global brands use Appboy's robust audience segmentation and advanced multi-channel messaging system to create highly personalized lifecycle marketing campaigns in every relevant channel -- from push, in-app, and web to email, wearables, and emerging technologies -- across billions of user profiles worldwide to better engage, retain, and monetize their customers.
@@ -306,6 +299,9 @@ SmartFoxServer is a comprehensive SDK for rapidly developing multiplayer games a
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/130)*)
 
 ###Open-source solutions
+
+- **[AeroGear](https://aerogear.org)**
+We make cross-platform enterprise mobile development easy. Aerogear provides flexible, extensible libraries and server side components that will simplify your mobile development and infrastructure setup across platforms.
 
 - **[Apache Usergrid](http://usergrid.apache.org)**
 Usergrid is an open-source Backend-as-a-Service (“BaaS” or “mBaaS”) composed of an integrated distributed NoSQL database, application layer and client tier with SDKs for developers looking to rapidly build web and/or mobile applications. It provides elementary services (user registration & management, data storage, file storage, queues) and retrieval features (full text search, geolocation search, joins) to power common app features.
