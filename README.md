@@ -211,6 +211,10 @@ Measure, track and analyze app performance, user acquisition and activity with F
 Google Analytics for Mobile Apps lets you measure the full value of your app across all key stages, from first discovery and download to in-app conversions. See what keeps your users engaged and learn how you can make them happier – and your app more successful.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/115)*)
 
+- **[Heap Analytics](https://heapanalytics.com/)** :zap:
+Heap automatically captures every user action in your web or iOS app and lets you measure it all after the fact. Clicks, taps, swipes, form submissions, page views. You're no longer limited by events you thought to log upfront.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/145)*)
+
 - **[Localytics](https://www.localytics.com)**
 Our Mobile Engagement Platform brings together User Insights, Smart Targeting & Marketing Automation to power great user engagement.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/116)*)
