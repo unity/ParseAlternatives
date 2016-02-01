@@ -139,6 +139,13 @@ ZetaPush is a realtime BaaS providing out of the box authentications and service
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/102)*)
 
 ###Push notification providers
+- **[AeroGear UnifiedPush Server](https://aerogear.org/getstarted/downloads/#unifiedpush)** The AeroGear UnifiedPush Server is a server that allows sending native push messages to different mobile operating systems. Currently the server supports
+* Apple’s APNs
+* Google Cloud Messaging
+* Microsoft’s Windows Push Notification service (WNS)
+* Microsoft’s Push Notification service (MPNs)
+* Amazon Device Messaging (ADM) - experimental
+The AeroGear UnifiedPush Server offers a unified Notification Service API to the above mentioned Push Network Services. When a push message request is sent to the UnifiedPush Server, it is internally translated into the format of these 3rd party networks. This gives a server the ability to send Push notifications to different mobile platforms.
 
 - **[Appboy](https://www.appboy.com)**
 Appboy is an industry-leading customer relationship suite for mobile marketers. Thousands of global brands use Appboy's robust audience segmentation and advanced multi-channel messaging system to create highly personalized lifecycle marketing campaigns in every relevant channel -- from push, in-app, and web to email, wearables, and emerging technologies -- across billions of user profiles worldwide to better engage, retain, and monetize their customers.
