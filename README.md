@@ -148,16 +148,16 @@ Taplytics is a fully integrated mobile A/B testing, push notification, and analy
 
 ###Crash Report providers
 
-- **[Crashlytics by Fabric](https://fabric.io/kits/android/crashlytics)** :zap:
+- **[Crashlytics by Fabric](https://fabric.io/kits/ios/crashlytics)** :zap:
 The most powerful, yet lightest weight crash reporting solution.
 
-- **[FlightRecorder](https://www.flightrecorder.io/feature/crash-reporting)** 
+- **[FlightRecorder](https://www.flightrecorder.io)** 
 With our detailed crash reports you get a great start for crushing those crashes. With our higher packages you can even do more.
 
-- **[Hockeyapp](http://hockeyapp.net/features/crashreports/)** 
+- **[Hockeyapp](http://hockeyapp.net)** 
 You don't want your app to crash, but it happens. And when it does, you'd better have fast and precise info about what went wrong and why. With HockeyApp, you'll get meaningful crash reports. Best of all, we regularly assess that HockeyApp has the most reliable crash reporting on the market.
 
-- **[Instabug](https://instabug.com/)** :zap:
+- **[Instabug](https://instabug.com)** :zap:
 We provide you with a powerful realtime crash reporter, with minimum footprint. With the exact level of detail, we provide you with a full report about the running environment and the app log. We also do further server-side processing on crashes to provide you with the meaningful stack trace, and hence make it easier for you to solve the problem.
 
 ###Backends for Game developers
