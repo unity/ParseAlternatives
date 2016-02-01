@@ -297,6 +297,9 @@ A full-stack open-source NoSQL database. It includes an embedded database (for i
 GUN is a highly modular, open-source, real-time, offline-first, distributed cache storage engine.  By default gun uses localStorage for data storage, but with [gun-level](https://github.com/PsychoLlama/gun-level) there are [many more data storage engines](https://github.com/Level/levelup/wiki/Modules#storage) just a module away. GUN defaults to pushing all data. The gun team is regularly releasing new modules, new and improved functionality, and improving performance.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/132)*)
 
+- **[hook](http://github.com/doubleleft/hook)** :zap:
+hook is a backend as a service written in PHP. It was designed by real needs of a digital agency. It provides a powerful REST API, which allows developers to create many applications in the same backend endpoint. It has client implementations to many languages like [JavaScript](https://github.com/doubleleft/hook-javascript), [C#](https://github.com/doubleleft/hook-csharp), [Corona SDK](https://github.com/doubleleft/hook-corona-sdk), [iOS](https://github.com/doubleleft/hook-swift), [Java](https://github.com/doubleleft/hook-android), etc.
+
 - **[Kinto](https://github.com/Kinto/kinto)**
 Kinto is a lightweight JSON storage service with synchronisation and sharing abilities. It is meant to be easy to use and easy to self-host. Kinto is used at Mozilla and released under the Apache v2 licence.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/90)*)
