@@ -221,7 +221,7 @@ Taplytics is a fully integrated mobile A/B testing, push notification, and analy
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/118)*)
 
 - **[WebEngage](https://webengage.com)** :zap: 
-Multi-channel User Engagement Platform. Communicate via In-App Messages, Push Notifications, Web Messages, Emails, Text Messages in real-time. Understand your users across all channels. Real-time event analytics across all channels and platforms. Identify trends & patterns based on User Interests, Lifecycle, Behavior, Geo-location and much more. Engage. Retain. Grow. 
+Multi-channel User Engagement Platform. Communicate via In-App Messages, Push Notifications, Web Messages, Emails, Text Messages in real-time. Understand your users across all channels. Real-time event analytics across all channels and platforms. Identify trends & patterns based on User Interests, Lifecycle, Behavior, Geo-location and much more.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/136)*)
 
 ###Crash Report providers
@@ -313,10 +313,10 @@ Marlin is a  fast REST API library built on top of redis server. Its has no spec
 ###Parse Server providers
 
 - **[AWS](https://aws.amazon.com)**
-AWS is Amazon's cloud infrastructure service. It supports running Node.js apps both on VMs and docker container as well as running mongo and aws own DynamoDB.
+AWS is Amazon's cloud infrastructure service. It supports running Node.js apps both on VMs and docker container as well as running Mongo and aws own DynamoDB.
 
-- ** [Azure](https://azure.microsoft.com)
-Microsoft cloud service. Supports both node.js and mongo via mongolab.
+- **[Azure](https://azure.microsoft.com)**
+Microsoft cloud service. Supports both Node.js and Mongo via MongoLab.
 
 - **[Google Cloud Platform](https://cloud.google.com/nodejs/resources/frameworks/parse-server)**
 You can migrate your app from the hosted Parse backend to Google App Engine by running Node.js on App Engine Managed VMs and using MongoDB preinstalled on a Compute Engine VM instance or by using MongoLab.
@@ -326,8 +326,8 @@ You can migrate your app from the hosted Parse backend to Google App Engine by r
 Bluemix is IBM's platform service, built with Cloud Foundry and running on IBM SoftLayer. It supports the Node.js runtime required for Parse Server. Bluemix also comes with many database options, including MongoDB from IBM's Compose.io acquisition. Link includes migration instructions.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/48)*)
 
-- **[RAX](https://www.rackspace.com)
-Cloud provider with support for it's own cloud, aws and azure. Supports running node.js in both vms and docker containers.
+- **[RAX](https://www.rackspace.com)**
+Cloud provider with support for it's own cloud, aws and azure. Supports running Node.js in both vms and docker containers.
 
 - **[Triton](https://www.joyent.com)**
-Joyents elastic container infrastructure backed by bare metal. It allows you to run node.js apps and mongo and provide a lot of tools for production debugging of node.js apps
+Joyents elastic container infrastructure backed by bare metal. It allows you to run Node.js apps and Mongo and provide a lot of tools for production debugging of Node.js apps.
