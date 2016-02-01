@@ -167,6 +167,7 @@ Pushwoosh is a multi-platform push notifications service, which enables develope
 
 - **[Pushy](https://www.pushy.me)**
 Pushy is an Android push notifications service up to 2x times faster than the competition. It uses dedicated socket connection to ensure push notification delivery in critical situations. Devices maintain a background connection to Pushy using the MQTT protocol, an extremely light-weight pub/sub protocol that consumes very little network bandwidth and battery. Pushy is perfect for real-time applications. Reliable, scalable, blazing-fast, and budget-friendly.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/134)*)
 
 - **[Urban Airship](https://www.urbanairship.com)**
 Urban Airship helps leading brands engage their mobile users and build high-value relationships from the moment customers download an app. Thousands of companies and some of the most demanding brands in retail, media & entertainment, sports and travel & hospitality, trust Urban Airship to deliver the mobile moments that matter to their customers and to their business.
