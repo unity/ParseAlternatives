@@ -315,3 +315,17 @@ You can migrate your app from the hosted Parse backend to Google App Engine by r
 - **[IBM Bluemix](https://developer.ibm.com/clouddataservices/2016/01/29/parse-on-ibm-bluemix)**
 Bluemix is IBM's platform service, built with Cloud Foundry and running on IBM SoftLayer. It supports the Node.js runtime required for Parse Server. Bluemix also comes with many database options, including MongoDB from IBM's Compose.io acquisition. Link includes migration instructions.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/48)*)
+
+- ** [Triton](https://www.joyent.com)**
+Joyents elastic container infrastructure backed by bare metal. It allows you to run node.js apps and mongo and provide a lot of tools for production debugging of node.js apps
+
+- ** [AWS](https://aws.amazon.com)**
+AWS is Amazon's cloud infrastructure service. It supports running Node.js apps both on VMs and docker container as well as running mongo and aws own DynamoDB
+
+- ** [Azure](https://azure.microsoft.com)
+Microsoft cloud service. Supports both node.js and mongo via mongolab.
+
+- ** [RAX] (https://www.rackspace.com)
+Cloud provider with support for it's own cloud, aws and azure. Supports running node.js in both vms and docker containers.
+
+
