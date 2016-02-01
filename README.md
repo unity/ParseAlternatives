@@ -252,7 +252,7 @@ Multi-channel User Engagement Platform. Communicate via In-App Messages, Push No
 The most powerful, yet lightest weight crash reporting solution.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/119)*)
 
-- **[Crittercism](http://www.crittercism.com/)**
+- **[Crittercism](http://www.crittercism.com)**
 Crashes are never welcome, but Crittercism can help you identify them as soon as they happen. Crash Reporting monitors both fatal and non-fatal errors so that you can fix issues before they impact users. Pinpoint where and why crashes are happening, who’s affected, and how to fix it.
 
 - **[FlightRecorder](https://www.flightrecorder.io)** 
