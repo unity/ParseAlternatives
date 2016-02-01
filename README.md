@@ -65,6 +65,9 @@ FatFractal lets you get started quickly with schema-less collection and object c
 - **[Firebase](https://www.firebase.com)** :zap:
 You can store & sync data with Firebase NoSQL cloud database. Data is stored as JSON, synced to all connected clients in realtime, and available when your app goes offline. You can also authenticate users with email & password, Facebook, Twitter, GitHub, Google, anonymous auth, or easily integrate with your existing authentication system.
 
+- **[Flybase](https://flybase.io)** :zap:
+Flybase's clustered NoSQL cloud services let's you easily store and sync data. Data is stored as JSON, easily queryable using a mongo-like query language to quickly retreive only data you need, and synced to all connected clients in real-time.
+
 - **[Kii](https://en.kii.com/platform)**
 With Kii’s mobile backend, create scalable, high performance mobile apps for various operating systems that all connect with your device seamlessly. With a complete set of built-in development tools, reduce your app development time from months to hours.
 
