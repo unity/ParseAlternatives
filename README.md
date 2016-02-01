@@ -94,6 +94,9 @@ CloudKit is a framework that replaces back-end web services like old-school data
 Instantly embed mobile services such as: push notification, geolocation, social, SMS and personal fitness data with out-of-box support for mission critical APIs & web services. Make sure your mobile experience is enjoyed across all devices with support for iOS, Android, Microsoft, mobile web (HTML5), and cross-platform UI toolsets.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/36)*)
 
+- **[Cosmic JS](https://cosmicjs.com)**
+Cosmic JS is a cloud-hosted content platform that makes it easy to add dynamic content to any website or app.  Cosmic JS takes an API-first approach to content management, allowing your content to be available on any website or application and across devices regardless of programming language. This allows for faster development cycles, faster content management and gives you more time to spend on building great products.
+
 - **[FatFractal](http://fatfractal.com)**
 FatFractal lets you get started quickly with schema-less collection and object creation, and builds on that with advanced features including: local development; advanced query language; bi-directional datagraph traversal; declarative permissions; push notifications; event-, endpoint- and schedule-triggered backend code; pluggable authentication; and much more. Offers native iOS, Android/Java, and HTML5/JavaScript SDKs.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/96)*)
