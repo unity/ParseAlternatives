@@ -168,6 +168,9 @@ Catapush is a simple, reliable and scalable delivery API for transactional push 
 Get delivery confirmation with real time status for each message sent and build intelligent messaging logic in your real time applications.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/106)*)
 
+- **[Kahuna](https://www.kahuna.com/)**
+Kahuna is a smart, multi-channel communication automation platform. Built originally for push, Kahuna also supports email, in-app, and social media communication channels. Kahuna focuses on tracking user actions and delivering across multiple channels, as well as providing intelligent services to suggest the best times and places to deliver messages.
+
 - **[Netmera](http://www.netmera.com)**
 Netmera is a Mobile Application Engagement Platform. We offer a series of development tools and app communication features to help your mobile business ignite and soar. Our platform will increase your mobile engagement with SMART campaigns and EASY data analysis features.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/107)*)
