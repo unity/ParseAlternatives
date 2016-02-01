@@ -230,9 +230,6 @@ Multi-channel User Engagement Platform. Communicate via In-App Messages, Push No
 The most powerful, yet lightest weight crash reporting solution.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/119)*)
 
-- **[Fabric](https://get.fabric.io)** :zap:
-Crash Reporting,Mobile Analytics,etc.
-
 - **[FlightRecorder](https://www.flightrecorder.io)** 
 With our detailed crash reports you get a great start for crushing those crashes. With our higher packages you can even do more.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/120)*)
