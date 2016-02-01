@@ -197,6 +197,9 @@ BAASBOX provides a web administrative console, user management API and signup wi
 - **[Couchbase Mobile](http://developer.couchbase.com/mobile)** :zap:
 A full-stack open-source NoSQL database. It includes an embedded database (for iOS, OS X, tvOS, watchOS, Android, Linux, Windows, Unity, Xamarin, PhoneGap/Cordova, and HTML5), a database server, multi-master replication with automatic and custom conflict resolution, fine-grained user/role based security, pluggable authentication, web-hooks, REST APIs, and Stream/Batch APIs. Apps using Couchbase Mobile work offline with data being automatically synchronized between the embedded databases and database server. It is designed to be easily integrated with other systems.
 
+- **[Experience Recorder](https://github.com/cleberhenriques/ExperienceRecorder)** 
+A simple library to record the user experience of your iOS app. With this library you will be able to record the app's screen and the user's face, at the same time. Then, you can synchronize the generated videos side by side and get insights of your app's user experience.
+
 - **[GUN](http://gun.js.org/)** :zap:
 GUN is a highly modular, open-source, real-time, offline-first, distributed cache storage engine.  By default gun uses localStorage for data storage, but with [gun-level](https://github.com/PsychoLlama/gun-level) there are [many more data storage engines](https://github.com/Level/levelup/wiki/Modules#storage) just a module away. GUN defaults to pushing all data. The gun team is regularly releasing new modules, new and improved functionality, and improving performance. If you have any questions, please feel free to ping the team on [Gitter](https://gitter.im/amark/gun).
 
