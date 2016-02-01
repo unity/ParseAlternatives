@@ -220,6 +220,10 @@ Make your product better by measuring actions, instead of page views. Mixpanel g
 Taplytics is a fully integrated mobile A/B testing, push notification, and analytics platform providing the tools you need to optimize your mobile app. Taplytics supports transactional, geo, event and behavioral triggered push notifications, all of which can be a/b tested and optimized for success.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/118)*)
 
+- **[WebEngage](https://webengage.com)** :zap: 
+Multi-channel User Engagement Platform. Communicate via In-App Messages, Push Notifications, Web Messages, Emails, Text Messages in real-time. Understand your users across all channels. Real-time event analytics across all channels and platforms. Identify trends & patterns based on User Interests, Lifecycle, Behavior, Geo-location and much more. Engage. Retain. Grow. 
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/136)*)
+
 ###Crash Report providers
 
 - **[Crashlytics](https://fabric.io/kits/ios/crashlytics)** :zap:
