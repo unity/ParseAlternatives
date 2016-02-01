@@ -57,6 +57,7 @@ AppWooDoo offers a simple yet powerful real-time database and push notifications
 
 - **[Apstrata](http://www.apstrata.com)**
 Apstrata is a powerful back-end as a Service that provides multiple APIs covering: orchestration (JavaScript server-side scripting), No-SQL persistance, messaging (push notifications, email), social networks integration (Facebook, Twitter, Google+, etc.), Identity and authorizations Management. You can expose your own business logic as REST APIs in a snap. Apstrata can scale as much as your application requires it. Last but not least, it is simple to use, provides an extensive documentation and the support and forum teams are very reactive.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/171)*)
 
 - **[AWS Mobile Hub](https://aws.amazon.com/mobile)**
 AWS Mobile Hub lets you easily add and configure features for your mobile apps, including user authentication, data storage, backend logic, push notifications, content delivery, and analytics. After you build your app, AWS Mobile Hub gives you easy access to testing on real devices, as well as analytics dashboards to track usage of your app.
@@ -96,6 +97,7 @@ Instantly embed mobile services such as: push notification, geolocation, social,
 
 - **[Cosmic JS](https://cosmicjs.com)**
 Cosmic JS is a cloud-hosted content platform that makes it easy to add dynamic content to any website or app.  Cosmic JS takes an API-first approach to content management, allowing your content to be available on any website or application and across devices regardless of programming language. This allows for faster development cycles, faster content management and gives you more time to spend on building great products.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/172)*)
 
 - **[FatFractal](http://fatfractal.com)**
 FatFractal lets you get started quickly with schema-less collection and object creation, and builds on that with advanced features including: local development; advanced query language; bi-directional datagraph traversal; declarative permissions; push notifications; event-, endpoint- and schedule-triggered backend code; pluggable authentication; and much more. Offers native iOS, Android/Java, and HTML5/JavaScript SDKs.
@@ -168,8 +170,9 @@ Catapush is a simple, reliable and scalable delivery API for transactional push 
 Get delivery confirmation with real time status for each message sent and build intelligent messaging logic in your real time applications.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/106)*)
 
-- **[Kahuna](https://www.kahuna.com/)**
+- **[Kahuna](https://www.kahuna.com)**
 Kahuna is a smart, multi-channel communication automation platform. Built originally for push, Kahuna also supports email, in-app, and social media communication channels. Kahuna focuses on tracking user actions and delivering across multiple channels, as well as providing intelligent services to suggest the best times and places to deliver messages.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/173)*)
 
 - **[Netmera](http://www.netmera.com)**
 Netmera is a Mobile Application Engagement Platform. We offer a series of development tools and app communication features to help your mobile business ignite and soar. Our platform will increase your mobile engagement with SMART campaigns and EASY data analysis features.
@@ -197,6 +200,7 @@ Urban Airship helps leading brands engage their mobile users and build high-valu
 
 - **[TUNE In-App Marketing](https://www.tune.com/in-app-marketing)**
 With In-App Marketing, the TUNE Marketing Console (TMC) now gives you ownership of the entire mobile marketing funnel, from first touch to ongoing retention, in one integrated platform. By optimizing user experience and delivering relevant content to the right people at the right time, In-App Marketing drives higher engagement and maximizes each user’s value.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/175)*)
 
 ###Analytics providers
 
@@ -212,7 +216,7 @@ Finally a mobile app analytics you don’t need to analyze.
 With Amazon Mobile Analytics, you can measure app usage and app revenue. By tracking key trends such as new vs. returning users, app revenue, user retention, and custom in-app behavior events, you can make data-driven decisions to increase engagement and monetization for your app. You can view key charts in the Mobile Analytics console and automatically export your app event data to Amazon S3 and Amazon Redshift to run custom analysis. Amazon Mobile Analytics is free up to 100 million events per month and just $1 per million events thereafter.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/110)*)
 
-- **[AppAnalytics](http://appanalytics.io/)** :zap:
+- **[AppAnalytics](http://appanalytics.io)** :zap:
 Real-time mobile app analytics for the entire customer lifecycle with event-based analytics, crash analytics, heat map analytics and gesture recognition!
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/149)*)
 
@@ -264,6 +268,7 @@ The most powerful, yet lightest weight crash reporting solution.
 
 - **[Crittercism](http://www.crittercism.com)**
 Crashes are never welcome, but Crittercism can help you identify them as soon as they happen. Crash Reporting monitors both fatal and non-fatal errors so that you can fix issues before they impact users. Pinpoint where and why crashes are happening, who’s affected, and how to fix it.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/170)*)
 
 - **[FlightRecorder](https://www.flightrecorder.io)** 
 With our detailed crash reports you get a great start for crushing those crashes. With our higher packages you can even do more.
@@ -279,6 +284,7 @@ We provide you with a powerful realtime crash reporter, with minimum footprint. 
 
 - **[Xtremepush](https://xtremepush.com)**
 XtremePush is a leading mobile analytics, engagement and proximity marketing platform. The platform provides deep analytics and messaging functionality allowing brands to analyse and intelligently engage with their app users using Push notifications and In App Messaging. We also provide Geo Fencing and iBeacon technology enabling location based engagement with app users all through one easy to use platform. 
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/176)*)
 
 ###Backends for Game developers
 
@@ -318,6 +324,7 @@ SmartFoxServer is a comprehensive SDK for rapidly developing multiplayer games a
 
 - **[AeroGear](https://aerogear.org)**
 We make cross-platform enterprise mobile development easy. Aerogear provides flexible, extensible libraries and server side components that will simplify your mobile development and infrastructure setup across platforms.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/177)*)
 
 - **[Apache Usergrid](http://usergrid.apache.org)**
 Usergrid is an open-source Backend-as-a-Service (“BaaS” or “mBaaS”) composed of an integrated distributed NoSQL database, application layer and client tier with SDKs for developers looking to rapidly build web and/or mobile applications. It provides elementary services (user registration & management, data storage, file storage, queues) and retrieval features (full text search, geolocation search, joins) to power common app features.
@@ -337,6 +344,7 @@ GUN is a highly modular, open-source, real-time, offline-first, distributed cach
 
 - **[hook](http://github.com/doubleleft/hook)** :zap:
 hook is a backend as a service written in PHP. It was designed by real needs of a digital agency. It provides a powerful REST API, which allows developers to create many applications in the same backend endpoint. It has client implementations to many languages like [JavaScript](https://github.com/doubleleft/hook-javascript), [C#](https://github.com/doubleleft/hook-csharp), [Corona SDK](https://github.com/doubleleft/hook-corona-sdk), [iOS](https://github.com/doubleleft/hook-swift), [Java](https://github.com/doubleleft/hook-android), etc.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/178)*)
 
 - **[Kinto](https://github.com/Kinto/kinto)**
 Kinto is a lightweight JSON storage service with synchronisation and sharing abilities. It is meant to be easy to use and easy to self-host. Kinto is used at Mozilla and released under the Apache v2 licence.
@@ -362,9 +370,11 @@ Piwik is the leading open-source analytics platform that gives you more than jus
 
 - **[AWS](https://aws.amazon.com)**
 AWS is Amazon's cloud infrastructure service. It supports running Node.js apps both on VMs and docker container as well as running Mongo and aws own DynamoDB.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/179)*)
 
 - **[Azure](https://azure.microsoft.com)**
 Microsoft cloud service. Supports both Node.js and Mongo via MongoLab.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/180)*)
 
 - **[Google Cloud Platform](https://cloud.google.com/nodejs/resources/frameworks/parse-server)**
 You can migrate your app from the hosted Parse backend to Google App Engine by running Node.js on App Engine Managed VMs and using MongoDB preinstalled on a Compute Engine VM instance or by using MongoLab.
@@ -376,6 +386,8 @@ Bluemix is IBM's platform service, built with Cloud Foundry and running on IBM S
 
 - **[RAX](https://www.rackspace.com)**
 Cloud provider with support for it's own cloud, aws and azure. Supports running Node.js in both vms and docker containers.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/181)*)
 
 - **[Triton](https://www.joyent.com)**
 Joyents elastic container infrastructure backed by bare metal. It allows you to run Node.js apps and Mongo and provide a lot of tools for production debugging of Node.js apps.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/182)*)
