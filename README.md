@@ -174,6 +174,10 @@ Get delivery confirmation with real time status for each message sent and build 
 Kahuna is a smart, multi-channel communication automation platform. Built originally for push, Kahuna also supports email, in-app, and social media communication channels. Kahuna focuses on tracking user actions and delivering across multiple channels, as well as providing intelligent services to suggest the best times and places to deliver messages.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/173)*)
 
+- **[Leanplum](https://www.leanplum.com)** :zap:
+Leanplum offers a complete Mobile Marketing Automation platform that contains personalized messaging, in-app UI optimization, A/B testing, and analytics. This diverse toolkit enables apps to manage every touch point of the customer journey, from onboarding through conversions. In short, the platform is the end-to-end key to brand survival.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/184)*)
+
 - **[Netmera](http://www.netmera.com)**
 Netmera is a Mobile Application Engagement Platform. We offer a series of development tools and app communication features to help your mobile business ignite and soar. Our platform will increase your mobile engagement with SMART campaigns and EASY data analysis features.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/107)*)
