@@ -43,6 +43,9 @@ A next-gen MBaaS, Arrow consists of two primary components, Builder and Cloud. A
 Integrated mobile backend services (MBaaS), so you can focus on your apps, not infrastructure, including database, push, and server code.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/27)*)
 
+- **[Apps Panel](http://www.appspanel.com/)**
+Apps Panel is an ISV which created an “as a Service” 360° Mobile Backend (MBaaS) for apps/IoT. This innovative middleware allows a global management of apps/IoT (content, marketing, analytics, monitoring…) with a comprehensive Web interface, and an API development/Gateways to interact dynamically with corporate information systems.
+
 - **[Appzio](https://appzio.com)** :zap:
 Appzio offers a full REST mobile backend, push notifications, SMS sending & mobile app CMS that allows logic & content changes using web admin dashboard. Integrations to Facebook, Google Analytics, Flurry and custom third party REST api's. Backend driven mobile solution with native iOS and Android client code.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/94)*)
