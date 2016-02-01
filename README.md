@@ -29,6 +29,9 @@ A next-gen MBaaS, Arrow consists of two primary components, Builder and Cloud. A
 - **[Appery.io](https://appery.io/backendservices)**
 Integrated mobile backend services (MBaaS), so you can focus on your apps, not infrastructure, including database, push, and server code.
 
+- **[Appzio](https://appzio.com/parse-appzio-migration/)** :zap:
+Appzio offers a full REST mobile backend, push notifications, sms sending & mobile app cms that allows logic & content changes using web admin dashboard. Integrations to Facebook, Google Analytics, Flurry and custom third party REST api's. Backend driven mobile solution with native iOS and Android client code.
+
 - **[AppWooDoo](http://www.appwoodoo.com)** :zap:
 AppWooDoo offers a simple yet powerful real-time database and push notifications backend server. Compatible for iOS and Android.
 
