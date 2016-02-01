@@ -212,6 +212,9 @@ GUN is a highly modular, open-source, real-time, offline-first, distributed cach
 - **[Helios](http://helios.io)**
 An extensible open-source backend framework for iOS apps from Mattt Thompson. Helios is built on the Rack webserver interface and is comprised of a collection of backend components that you can mix and match to provide features including data synchronisation, push notifications, in-app purchases, Passbook, Newstand, logging and analytics.
 
+- **[Kinto](https://github.com/Kinto/kinto)**
+Kinto is a lightweight JSON storage service with synchronisation and sharing abilities. It is meant to be easy to use and easy to self-host. Kinto is used at Mozilla and released under the Apache v2 licence.
+
 - **[Kuzzle](http://kuzzle.io)** :zap:
 Kuzzle is an open-source back-end as a service (BaaS). Kuzzle combines a high level API, a database, a real-time engine, subscription and notification mechanisms as well as some advanced search features. The API is accessible through several standard protocols.
 
