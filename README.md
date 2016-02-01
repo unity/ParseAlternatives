@@ -187,14 +187,17 @@ Urban Airship helps leading brands engage their mobile users and build high-valu
 
 ###Analytics providers
 
-- **[Answers.io](https://answers.io/answers)** :zap:
-You need instant visibility to keep a constant pulse on your user’s behavior. 
-Your time is precious -- we surface answers for you.
+- **[Answers.io](https://answers.io)** :zap:
+Finally a mobile app analytics you don’t need to analyze.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/147)*)
 
 - **[Amazon Mobile Analytics](https://aws.amazon.com/mobileanalytics)** :zap:
 With Amazon Mobile Analytics, you can measure app usage and app revenue. By tracking key trends such as new vs. returning users, app revenue, user retention, and custom in-app behavior events, you can make data-driven decisions to increase engagement and monetization for your app. You can view key charts in the Mobile Analytics console and automatically export your app event data to Amazon S3 and Amazon Redshift to run custom analysis. Amazon Mobile Analytics is free up to 100 million events per month and just $1 per million events thereafter.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/110)*)
+
+- **[AppAnalytics](http://appanalytics.io/)** :zap:
+Real-time mobile app analytics for the entire customer lifecycle with event-based analytics, crash analytics, heat map analytics and gesture recognition!
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/149)*)
 
 - **[Appsee](https://www.appsee.com)** :zap:
 Appsee's mobile analytics platform provides in-depth analysis of your users' behavior, allowing you to deliver the ultimate app experience.
@@ -216,7 +219,7 @@ Measure, track and analyze app performance, user acquisition and activity with F
 Google Analytics for Mobile Apps lets you measure the full value of your app across all key stages, from first discovery and download to in-app conversions. See what keeps your users engaged and learn how you can make them happier – and your app more successful.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/115)*)
 
-- **[Heap Analytics](https://heapanalytics.com/)** :zap:
+- **[Heap Analytics](https://heapanalytics.com)** :zap:
 Heap automatically captures every user action in your web or iOS app and lets you measure it all after the fact. Clicks, taps, swipes, form submissions, page views. You're no longer limited by events you thought to log upfront.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/145)*)
 
