@@ -338,8 +338,8 @@ We make cross-platform enterprise mobile development easy. Aerogear provides fle
 Usergrid is an open-source Backend-as-a-Service (“BaaS” or “mBaaS”) composed of an integrated distributed NoSQL database, application layer and client tier with SDKs for developers looking to rapidly build web and/or mobile applications. It provides elementary services (user registration & management, data storage, file storage, queues) and retrieval features (full text search, geolocation search, joins) to power common app features.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/42)*)
 
-- **[BAASBOX](http://www.baasbox.com)**
-BAASBOX provides a web administrative console, user management API and signup with Facebook and Google+, content management with grant/revoke permissions on documents on user and roles, geospatial queries, store big file, file custom metadata and file links, integrated friendship APIs based on "following" concept, push notification for iOS and Android, Server scripting for extending the features via plugins.
+- **[BaasBox](http://www.baasbox.com)**
+BaasBox provides a web administrative console, user management API and signup with Facebook and Google+, content management with grant/revoke permissions on documents on user and roles, geospatial queries, store big file, file custom metadata and file links, integrated friendship APIs based on "following" concept, push notification for iOS and Android, Server scripting for extending the features via plugins.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/131)*)
 
 - **[Couchbase Mobile](http://developer.couchbase.com/mobile)** :zap:
