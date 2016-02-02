@@ -190,7 +190,7 @@ Netmera is a Mobile Application Engagement Platform. We offer a series of develo
 OneSignal is a completely free push notification delivery service. We fund our product development through products offered to enterprise clients. We provide a suite of APIs and tools for mobile developers to send, schedule, localize, and A/B test their notification campaigns. Our highly reliable service has all the features of Parse and developers can use our Parse data importer to ease their switch.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/50)*)
 
-- **[PushBots](https://www.pushbots.com)**
+- **[PushBots](https://pushbots.com)**
 PushBots is a scalable push notification system for mobile applications that helps save time and effort to effectively communicate with your users. We provide native SDKs (Android, iOS, and Phonegap), REST API, API clients(PHP, Python, NodeJS and dotNET) and an online dashboard to manage and send your push notifications. We also provide analytics, push scheduling and Twitter integration.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/108)*)
 
