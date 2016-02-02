@@ -1,5 +1,3 @@
-[![Developers to hire](http://relatedcode.com/github/header9.png)](https://github.com/relatedcode/Developers)
-
 ##Parse alternatives
 
 As you may noticed [Parse](http://blog.parse.com/announcements/moving-on) will be fully retired after a year-long period ending on January 28, 2017. Most of us need to find an alternative backend service for our apps. Please help the community to find a great BaaS. Contribution guidelines can be found [here](CONTRIBUTING.md).
@@ -386,7 +384,7 @@ AWS is Amazon's cloud infrastructure service. It supports running Node.js apps b
 Microsoft cloud service. Supports both Node.js and Mongo via MongoLab.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/180)*)
 
-- **[Cloud9](https://c9.io/)**
+- **[Cloud9](https://c9.io)**
 Cloud9 provides a development environment in the cloud that allows developers to get started with coding immediately and collaborate with their peers. With 3 years of cloud IDE development experience and nearly half a million registered users, Cloud9’s mission is to unlock the benefits of writing software in the cloud.
 
 - **[Google Cloud Platform](https://cloud.google.com/nodejs/resources/frameworks/parse-server)**
@@ -397,7 +395,7 @@ You can migrate your app from the hosted Parse backend to Google App Engine by r
 Bluemix is IBM's platform service, built with Cloud Foundry and running on IBM SoftLayer. It supports the Node.js runtime required for Parse Server. Bluemix also comes with many database options, including MongoDB from IBM's Compose.io acquisition. Link includes migration instructions.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/48)*)
 
-- **[Nitrous](https://www.nitrous.io/)**
+- **[Nitrous](https://www.nitrous.io)**
 Nitrous is a cloud-based code editor with collaboration, one-click installs and snapshots.
 
 - **[RAX](https://www.rackspace.com)**
