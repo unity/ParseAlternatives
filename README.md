@@ -143,7 +143,7 @@ Syncano is a highly customizable BaaS that greatly reduces the need for backend 
 Telerik Backend Services is equipped with a robust set of security measures to encrypt and securely transport data from all communications. As your business needs grow, you can be sure that Telerik Backend Services will scale to meet your requirements.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/41)*)
 
-- **[ZetaPush](http://zetapush.com)** :zap:
+- **[ZetaPush](https://zetapush.com)** :zap:
 ZetaPush is a realtime BaaS providing out of the box authentications and services. You can use noSQL database, file storage, search, mail, sms, etc, everything as a service. ZetaPush provides SDKs for mobile, web and IoT.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/102)*)
 
