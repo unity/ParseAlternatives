@@ -149,7 +149,7 @@ ZetaPush is a realtime BaaS providing out of the box authentications and service
 
 ###Push notification providers
 
-**[Accengage](http://www.accengage.com)** :zap:
+- **[Accengage](http://www.accengage.com)** :zap:
 Accengage is the European leader in Push Notification Technology for mobile apps & websites. Available as a SaaS solution, Accengage has an intuitive user interface to set-up, launch, analyse and optimise your CRM Strategy on mobile devices and desktops. Over 300 international customers rely on the Accengage solution to communicate in a targeted, personalized, automated and synchronized way with their app & website users. Key figures: 60 Months of R&D, 500 Million installed apps with the Accengage SDK, 3 Billion push notifications sent per Month.
 
 - **[Appboy](https://www.appboy.com)**
