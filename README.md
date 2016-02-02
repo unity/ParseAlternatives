@@ -399,7 +399,7 @@ Microsoft cloud service. Supports both Node.js and Mongo via MongoLab.
 You can migrate your app from the hosted Parse backend to Google App Engine by running Node.js on App Engine Managed VMs and using MongoDB preinstalled on a Compute Engine VM instance or by using MongoLab.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/47)*)
 
-- **[heroku](https://www.heroku.com)**
+- **[Heroku](https://www.heroku.com)**
 Migrate your app from the hosted Parse backend to Heroku by simply pushing the Heroku Button in the `[parse-server-example](https://github.com/ParsePlatform/parse-server-example)` repo. This will create an app on Heroku, provision the [MongoLab add-on](https://elements.heroku.com/addons/mongolab) and deploy the `parse-server-example`.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/47)*)
 
