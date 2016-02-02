@@ -384,9 +384,6 @@ AWS is Amazon's cloud infrastructure service. It supports running Node.js apps b
 Microsoft cloud service. Supports both Node.js and Mongo via MongoLab.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/180)*)
 
-- **[Cloud9](https://c9.io)**
-Cloud9 provides a development environment in the cloud that allows developers to get started with coding immediately and collaborate with their peers. With 3 years of cloud IDE development experience and nearly half a million registered users, Cloud9’s mission is to unlock the benefits of writing software in the cloud.
-
 - **[Google Cloud Platform](https://cloud.google.com/nodejs/resources/frameworks/parse-server)**
 You can migrate your app from the hosted Parse backend to Google App Engine by running Node.js on App Engine Managed VMs and using MongoDB preinstalled on a Compute Engine VM instance or by using MongoLab.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/47)*)
