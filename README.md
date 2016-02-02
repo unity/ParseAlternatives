@@ -149,6 +149,9 @@ ZetaPush is a realtime BaaS providing out of the box authentications and service
 
 ###Push notification providers
 
+**[Accengage](http://www.accengage.com)** :zap:
+Accengage is the European leader in Push Notification Technology for mobile apps & websites. Available as a SaaS solution, Accengage has an intuitive user interface to set-up, launch, analyse and optimise your CRM Strategy on mobile devices and desktops. Over 300 international customers rely on the Accengage solution to communicate in a targeted, personalized, automated and synchronized way with their app & website users. Key figures: 60 Months of R&D, 500 Million installed apps with the Accengage SDK, 3 Billion push notifications sent per Month.
+
 - **[Appboy](https://www.appboy.com)**
 Appboy is an industry-leading customer relationship suite for mobile marketers. Thousands of global brands use Appboy's robust audience segmentation and advanced multi-channel messaging system to create highly personalized lifecycle marketing campaigns in every relevant channel -- from push, in-app, and web to email, wearables, and emerging technologies -- across billions of user profiles worldwide to better engage, retain, and monetize their customers.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/103)*)
@@ -402,6 +405,7 @@ Bluemix is IBM's platform service, built with Cloud Foundry and running on IBM S
 
 - **[Nitrous](https://www.nitrous.io)**
 Nitrous is a cloud-based code editor with collaboration, one-click installs and snapshots.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/199)*)
 
 - **[RAX](https://www.rackspace.com)**
 Cloud provider with support for it's own cloud, aws and azure. Supports running Node.js in both vms and docker containers.
