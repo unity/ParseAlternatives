@@ -22,6 +22,7 @@ As you may noticed [Parse](http://blog.parse.com/announcements/moving-on) will b
 - [Backends for Game developers](#backends-for-game-developers)
 - [Open-Source Solutions](#open-source-solutions)
 - [Parse Server providers](#parse-server-providers)
+- [User Administration](#user-administration)
 
 The real-time providers are marked with :zap: icon.
 
@@ -411,3 +412,16 @@ Cloud provider with support for it's own cloud, aws and azure. Supports running 
 Joyents elastic container infrastructure backed by bare metal. It allows you to run Node.js apps and Mongo and provide a lot of tools for production debugging of Node.js apps.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/182)*)
 
+###User Administration
+
+- **[Auth0](https://auth0.com)**
+Single sign on services for your apps. Supports OAuth via over 34 different identity providers, passwordless login, and more. 
+
+- **[AuthRocket](https://authrocket.com)**
+Versatile authentication API that allows you to integrate logins, social sign in, and user management into your app. 
+
+- **[Digits](https://get.digits.com)**
+Twitter's mobile-first sign in solution. Allows users to easily sign in and sign up using their phone number, manages the user graph, and free for unlimited users. 
+
+- **[Stormpath](https://stormpath.com)**
+Identity layer for your apps with integrations for popular backend frameworks and user databases. Easily manage user permissions, API keys, and user tokens. 
