@@ -111,9 +111,6 @@ You can store & sync data with Firebase NoSQL cloud database. Data is stored as 
 Flybase's clustered NoSQL cloud services let's you easily store and sync data. Data is stored as JSON, easily queryable using a mongo-like query language to quickly retrieve only data you need, and synced to all connected clients in real-time.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/97)*)
 
-- **[inMotion](https://buildinmotion.com)**
-inMotion is a Backend as a Service (BaaS) that includes baseline functions for applications including authentication, role-based permissions, data persistence, workflow, notifications and search. It includes a set of core components that can be implemented and customized such as e-commerce, point-of-sale, content management, document management and analytics.
-
 - **[Kii](https://en.kii.com/platform)**
 With Kii’s mobile backend, create scalable, high performance mobile apps for various operating systems that all connect with your device seamlessly. With a complete set of built-in development tools, reduce your app development time from months to hours.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/38)*)
