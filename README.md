@@ -172,6 +172,11 @@ Catapush is a simple, reliable and scalable delivery API for transactional push 
 Get delivery confirmation with real time status for each message sent and build intelligent messaging logic in your real time applications.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/106)*)
 
+- **[Growth Push](http://en.growthpush.com/)**
+Growth Push is one of the biggest push notification platoform in Japan. Growth Push provides Push Notification's analyses and delivery services for Applications developers. It not only optimizes the effectiveness of Push Notifications.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/189)*)
+
+
 - **[Kahuna](https://www.kahuna.com)**
 Kahuna is a smart, multi-channel communication automation platform. Built originally for push, Kahuna also supports email, in-app, and social media communication channels. Kahuna focuses on tracking user actions and delivering across multiple channels, as well as providing intelligent services to suggest the best times and places to deliver messages.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/173)*)
