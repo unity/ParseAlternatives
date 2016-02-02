@@ -118,7 +118,7 @@ With Kii’s mobile backend, create scalable, high performance mobile apps for v
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/38)*)
 
 - **[Kinvey](http://www.kinvey.com)**
-An alternative backend-as-a-service provider very similar to Parse. Like Parse, it offers cloud storage, push notifications and custom business logic, but also provides an out-of-the-box implementation of Facebook Open Graph for apps that don't have websites.
+An alternative backend-as-a-service (BaaS) provider very similar to Parse. Like Parse, it offers cloud storage, push notifications and custom business logic, but also provides an out-of-the-box implementation of Facebook Open Graph for apps that don't have websites.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/39)*)
 
 - **[Microsoft Azure Mobile App Service](https://azure.microsoft.com/en-us/services/app-service/mobile)**
