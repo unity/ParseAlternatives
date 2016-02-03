@@ -442,5 +442,5 @@ Joyents elastic container infrastructure backed by bare metal. It allows you to 
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/182)*)
 
 - **[Clever Cloud](https://www.clever-cloud.com)**
-Clever Cloud is a Europe-based PaaS company with bulletproof infrastructure, automatic scaling, fair pricing and an integration with Github for app deployment and hosting. Clever Cloud comes with a Node.js runtime and a native MongoDB add-ons to run Parse.
+Clever Cloud is a Europe-based PaaS company with bulletproof infrastructure, automatic scaling, fair pricing and an integration with Github for app deployment and hosting. Clever Cloud comes with a Node.js runtime and a native MongoDB add-on to run Parse.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/211)*)
