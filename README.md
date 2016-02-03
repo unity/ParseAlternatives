@@ -243,7 +243,7 @@ Real-time mobile app analytics for the entire customer lifecycle with event-base
 Appsee's mobile analytics platform provides in-depth analysis of your users' behavior, allowing you to deliver the ultimate app experience.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/111)*)
 
-- **[CleverTap](https://clevertap.com)**
+- **[CleverTap](https://clevertap.com)** :zap:
 CleverTap lets you do app analytics at incredible speeds, and engage with your users via push notifications, in-app messages, emails or web notifications. You can use it to personalize all your interactions with users, across all channels. It does automatic uninstall tracking - with an ability to reach out to the users who've uninstalled the app for product feedback. Parse users can migrate to CleverTap in two simple steps with zero downtime.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/112)*)
 
