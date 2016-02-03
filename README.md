@@ -422,6 +422,10 @@ AWS is Amazon's cloud infrastructure service. It supports running Node.js apps b
 Microsoft cloud service. Supports both Node.js and Mongo via MongoLab.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/180)*)
 
+- **[Clever Cloud](https://www.clever-cloud.com)**
+Clever Cloud is a Europe-based PaaS company with bulletproof infrastructure, automatic scaling, fair pricing and an integration with Github for app deployment and hosting. Clever Cloud comes with a Node.js runtime and a native MongoDB add-on to run Parse.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/211)*)
+
 - **[Google Cloud Platform](https://cloud.google.com/nodejs/resources/frameworks/parse-server)**
 You can migrate your app from the hosted Parse backend to Google App Engine by running Node.js on App Engine Managed VMs and using MongoDB preinstalled on a Compute Engine VM instance or by using MongoLab.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/47)*)
@@ -444,7 +448,3 @@ Cloud provider with support for it's own cloud, aws and azure. Supports running 
 - **[Triton](https://www.joyent.com)**
 Joyents elastic container infrastructure backed by bare metal. It allows you to run Node.js apps and Mongo and provide a lot of tools for production debugging of Node.js apps.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/182)*)
-
-- **[Clever Cloud](https://www.clever-cloud.com)**
-Clever Cloud is a Europe-based PaaS company with bulletproof infrastructure, automatic scaling, fair pricing and an integration with Github for app deployment and hosting. Clever Cloud comes with a Node.js runtime and a native MongoDB add-on to run Parse.
-(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/211)*)
