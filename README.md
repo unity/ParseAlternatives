@@ -182,10 +182,6 @@ Catapush is a simple, reliable and scalable delivery API for transactional push 
 Get delivery confirmation with real time status for each message sent and build intelligent messaging logic in your real time applications.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/106)*)
 
-- ** [RadiumOne](https://radiumone.com/developer/)[Connect](http://connect.radiumone.com/)** 
-Connect is a free push notification and in-app analytics tool from RadiumOne.  It is ideal for targetting Push Notifications based on in-app user behavior and coordinating Push Messaging with advertising through the integrated RadiumOne Data Management Platform (DMP) and programatic media-buying tools.  Push messages can be targetted to users based on tagging, segmentation, and geolocation. 
-(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/)*)
-
 - **[Growth Push](http://en.growthpush.com)**
 Growth Push is one of the biggest push notification platoform in Japan. Growth Push provides Push Notification's analyses and delivery services for Applications developers. It not only optimizes the effectiveness of Push Notifications.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/189)*)
@@ -217,6 +213,9 @@ Pushwoosh is a multi-platform push notifications service, which enables develope
 - **[Pushy](https://www.pushy.me)**
 Pushy is an Android push notifications service up to 2x times faster than the competition. It uses dedicated socket connection to ensure push notification delivery in critical situations. Devices maintain a background connection to Pushy using the MQTT protocol, an extremely light-weight pub/sub protocol that consumes very little network bandwidth and battery. Pushy is perfect for real-time applications. Reliable, scalable, blazing-fast, and budget-friendly.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/134)*)
+
+- **[RadiumOne](https://radiumone.com/connect)**
+Connect is a free push notification and in-app analytics tool from RadiumOne. It is ideal for targetting Push Notifications based on in-app user behavior and coordinating Push Messaging with advertising through the integrated RadiumOne Data Management Platform (DMP) and programatic media-buying tools. Push messages can be targetted to users based on tagging, segmentation, and geolocation. 
 
 - **[Urban Airship](https://www.urbanairship.com)**
 Urban Airship helps leading brands engage their mobile users and build high-value relationships from the moment customers download an app. Thousands of companies and some of the most demanding brands in retail, media & entertainment, sports and travel & hospitality, trust Urban Airship to deliver the mobile moments that matter to their customers and to their business.
@@ -259,10 +258,6 @@ Appsee's mobile analytics platform provides in-depth analysis of your users' beh
 - **[CleverTap](https://clevertap.com)** :zap:
 CleverTap lets you do app analytics at incredible speeds, and engage with your users via push notifications, in-app messages, emails or web notifications. You can use it to personalize all your interactions with users, across all channels. It does automatic uninstall tracking - with an ability to reach out to the users who've uninstalled the app for product feedback. Parse users can migrate to CleverTap in two simple steps with zero downtime.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/112)*)
-
-- ** [RadiumOne](https://radiumone.com/developer/)[Connect](http://connect.radiumone.com/)** 
-Connect is a free push notification and in-app analytics tool from RadiumOne.  It is ideal for targetting Push Notifications based on in-app user behavior and coordinating Push Messaging with advertising through the integrated RadiumOne Data Management Platform (DMP) and programatic media-buying tools.  Push messages can be targetted to users based on tagging, segmentation, and geolocation. 
-(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/)*)
 
 - **[Countly](https://count.ly)**
 Countly is world's leading open source, enteprise mobile and web analytics & marketing platform. Countly is provided in several editions, including Community Edition with a free-to-use non-commercial license, Cloud (SaaS) Edition and self-hosted or Enterprise Edition with SLA coverage.
