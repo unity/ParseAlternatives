@@ -155,6 +155,10 @@ ZetaPush is a realtime BaaS providing out of the box authentications and service
 Appboy is an industry-leading customer relationship suite for mobile marketers. Thousands of global brands use Appboy's robust audience segmentation and advanced multi-channel messaging system to create highly personalized lifecycle marketing campaigns in every relevant channel -- from push, in-app, and web to email, wearables, and emerging technologies -- across billions of user profiles worldwide to better engage, retain, and monetize their customers.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/103)*)
 
+- **[Amazon Simple Notification Service (SNS)](https://aws.amazon.com/sns)** :zap:
+Amazon Simple Notification Service (SNS) is a fast, flexible, fully managed publish-subscribe based messaging service for mobile and enterprise messaging that is used by several leading brands and startups to send billions of messages every day. With Amazon SNS, you can send push notifications to iOS, Android, Windows, FireOS, Baidu and MacOS devices. Additionally, you can deliver messages to other destinations such as Amazon Simple Queueing Service (SQS) queues, HTTP endpoints, email, SMS and AWS Lambda functions. Amazon SNS scales as your needs grow and offers usage-based pricing. With Amazon SNS you can make 1M requests, 1M mobile push delivery attempts and send 1GB of data out of any AWS region at no-charge every month. After that, you pay just $0.50 per million requests and $0.50 per million mobile push delivery attempts (plus applicable data transfer charges).
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/192)*)
+
 - **[Batch](https://batch.com)**
 Batch is a push notification platform built around predictive analytics and smart segmentation algorithms. With Batch, you can efficiently send transactional (one to one) and marketing notifications (one to many) while leveraging our other modules to run a successful retention strategy.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/49)*)
