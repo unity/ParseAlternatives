@@ -342,8 +342,8 @@ brainCloud is a ready-made backend for the development of feature-rich mobile+so
 Gamedonia offers a flexible backend platform to build, launch and run online games. Build with our server-side tools, featuring Database, Server Code, Multiplayer Networking, User Management, Purchases, Push, and more. Gamedonia’s solutions are cross-platform and compatible with games for mobile and PC.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/193)*)
 
-- **[GameSparks](http://www.gamesparks.com)**
-GameSparks is a cloud-based platform on which to build ALL the server-side components of your game, including Player Management, Social, Multiplayer, Economies and Catalogue Management, and Meta-Game systems. All features are fully customisable, and you can create any custom API and write any custom server logic. You have full database access, and sophisticated access control for different users.
+- **[GameSparks](http://www.gamesparks.com)** :zap:
+GameSparks is the leading Backend as a Service platform for games developers, helping to build all of the server-side features of their game, as well as tuning and managing their game once it has launched. Typical server-side features include leaderboards, multiplayer, notifications and player save data. The GameSparks platform provides developers with a single integrated tool to build these server components, boosting player retention and monetization without ever having to set up and run a server.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/126)*)
 
 - **[Heroic Labs](https://heroiclabs.com)**
