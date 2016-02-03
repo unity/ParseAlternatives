@@ -400,7 +400,7 @@ You can migrate your app from the hosted Parse backend to Google App Engine by r
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/47)*)
 
 - **[Heroku](https://www.heroku.com)**
-Migrate your app from the hosted Parse backend to Heroku by simply pushing the Heroku Button in the [`parse-server-example`](https://github.com/ParsePlatform/parse-server-example#with-the-heroku-button) repo. This will create an app on Heroku, provision the [MongoLab add-on](https://elements.heroku.com/addons/mongolab) and deploy the `parse-server-example`.
+Heroku is a cloud platform that lets companies build, deliver, monitor and scale apps — we're the fastest way to go from idea to URL, bypassing all those infrastructure headaches.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/201)*)
 
 - **[IBM Bluemix](https://developer.ibm.com/clouddataservices/2016/01/29/parse-on-ibm-bluemix)**
