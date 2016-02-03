@@ -19,10 +19,10 @@ As you may noticed [Parse](http://blog.parse.com/announcements/moving-on) will b
 - [Push notification providers](#push-notification-providers)
 - [Analytics providers](#analytics-providers)
 - [Crash Report providers](#crash-report-providers)
+- [User Administration providers](#user-administration-providers)
 - [Backends for Game developers](#backends-for-game-developers)
 - [Open-Source Solutions](#open-source-solutions)
 - [Parse Server providers](#parse-server-providers)
-- [User Administration](#user-administration)
 
 The real-time providers are marked with :zap: icon.
 
@@ -222,6 +222,10 @@ With In-App Marketing, the TUNE Marketing Console (TMC) now gives you ownership 
 WonderPush is a free push notification platform without obligation or credit card, that provides open source SDKs for Android, iOS and JavaScript for easy integration into mobile applications and web sites. Its powerful REST API helps to programmatically deliver 100.000's push notification in a second. Marketers can automate sendings and do behavioral segmentation using the straightforward dashboard.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/196)*)
 
+- **[Xtremepush](https://xtremepush.com)**
+XtremePush is a leading mobile analytics, engagement and proximity marketing platform. The platform provides deep analytics and messaging functionality allowing brands to analyse and intelligently engage with their app users using Push notifications and In App Messaging. We also provide Geo Fencing and iBeacon technology enabling location based engagement with app users all through one easy to use platform. 
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/176)*)
+
 ###Analytics providers
 
 - **[Amplitude](https://amplitude.com)** :zap:
@@ -302,9 +306,19 @@ You don't want your app to crash, but it happens. And when it does, you'd better
 We provide you with a powerful realtime crash reporter, with minimum footprint. With the exact level of detail, we provide you with a full report about the running environment and the app log. We also do further server-side processing on crashes to provide you with the meaningful stack trace, and hence make it easier for you to solve the problem.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/122)*)
 
-- **[Xtremepush](https://xtremepush.com)**
-XtremePush is a leading mobile analytics, engagement and proximity marketing platform. The platform provides deep analytics and messaging functionality allowing brands to analyse and intelligently engage with their app users using Push notifications and In App Messaging. We also provide Geo Fencing and iBeacon technology enabling location based engagement with app users all through one easy to use platform. 
-(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/176)*)
+###User Administration providers
+
+- **[Auth0](https://auth0.com)**
+Single sign on services for your apps. Supports OAuth via over 34 different identity providers, passwordless login, and more. 
+
+- **[AuthRocket](https://authrocket.com)**
+Versatile authentication API that allows you to integrate logins, social sign in, and user management into your app. 
+
+- **[Digits](https://get.digits.com)**
+Twitter's mobile-first sign in solution. Allows users to easily sign in and sign up using their phone number, manages the user graph, and free for unlimited users. 
+
+- **[Stormpath](https://stormpath.com)**
+Identity layer for your apps with integrations for popular backend frameworks and user databases. Easily manage user permissions, API keys, and user tokens. 
 
 ###Backends for Game developers
 
@@ -320,7 +334,7 @@ AppWarp is a powerful, yet simple platform for developing multiplayer real-time 
 brainCloud is a ready-made backend for the development of feature-rich mobile+social games and gamified apps. brainCloud features include cloud data, cloud code, push notifications, social integration, multiplayer support, matchmaking, gamification, in-app purchases, pricing controls, promotions, segments, analytics, external authentication, shared accounts, dataStream architecture, scheduled jobs and more.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/125)*)
 
-- **[Gamedonia](http://www.gamedonia.com/)** :zap:
+- **[Gamedonia](http://www.gamedonia.com)** :zap:
 Gamedonia offers a flexible backend platform to build, launch and run online games. Build with our server-side tools, featuring Database, Server Code, Multiplayer Networking, User Management, Purchases, Push, and more. Gamedonia’s solutions are cross-platform and compatible with games for mobile and PC.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/193)*)
 
@@ -426,17 +440,3 @@ Cloud provider with support for it's own cloud, aws and azure. Supports running 
 - **[Triton](https://www.joyent.com)**
 Joyents elastic container infrastructure backed by bare metal. It allows you to run Node.js apps and Mongo and provide a lot of tools for production debugging of Node.js apps.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/182)*)
-
-###User Administration
-
-- **[Auth0](https://auth0.com)**
-Single sign on services for your apps. Supports OAuth via over 34 different identity providers, passwordless login, and more. 
-
-- **[AuthRocket](https://authrocket.com)**
-Versatile authentication API that allows you to integrate logins, social sign in, and user management into your app. 
-
-- **[Digits](https://get.digits.com)**
-Twitter's mobile-first sign in solution. Allows users to easily sign in and sign up using their phone number, manages the user graph, and free for unlimited users. 
-
-- **[Stormpath](https://stormpath.com)**
-Identity layer for your apps with integrations for popular backend frameworks and user databases. Easily manage user permissions, API keys, and user tokens. 
