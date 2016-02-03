@@ -156,6 +156,7 @@ ZetaPush is a realtime BaaS providing out of the box authentications and service
 
 - **[Accengage](http://www.accengage.com)** :zap:
 Accengage is the European leader in Push Notification Technology for mobile apps & websites. Available as a SaaS solution, Accengage has an intuitive user interface to set-up, launch, analyse and optimise your CRM Strategy on mobile devices and desktops. Over 300 international customers rely on the Accengage solution to communicate in a targeted, personalized, automated and synchronized way with their app & website users. Key figures: 60 Months of R&D, 500 Million installed apps with the Accengage SDK, 3 Billion push notifications sent per Month.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/224)*)
 
 - **[Amazon Simple Notification Service (SNS)](https://aws.amazon.com/sns)** :zap:
 Amazon Simple Notification Service (SNS) is a fast, flexible, fully managed publish-subscribe based messaging service for mobile and enterprise messaging that is used by several leading brands and startups to send billions of messages every day. With Amazon SNS, you can send push notifications to iOS, Android, Windows, FireOS, Baidu and MacOS devices. Additionally, you can deliver messages to other destinations such as Amazon Simple Queueing Service (SQS) queues, HTTP endpoints, email, SMS and AWS Lambda functions. With Amazon SNS you can make 1M requests, 1M mobile push delivery attempts and send 1GB of data out of any AWS region at no-charge every month.
@@ -216,6 +217,7 @@ Pushy is an Android push notifications service up to 2x times faster than the co
 
 - **[RadiumOne](https://radiumone.com/connect)**
 Connect is a free push notification and in-app analytics tool from RadiumOne. It is ideal for targetting Push Notifications based on in-app user behavior and coordinating Push Messaging with advertising through the integrated RadiumOne Data Management Platform (DMP) and programatic media-buying tools. Push messages can be targetted to users based on tagging, segmentation, and geolocation. 
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/223)*)
 
 - **[Urban Airship](https://www.urbanairship.com)**
 Urban Airship helps leading brands engage their mobile users and build high-value relationships from the moment customers download an app. Thousands of companies and some of the most demanding brands in retail, media & entertainment, sports and travel & hospitality, trust Urban Airship to deliver the mobile moments that matter to their customers and to their business.
@@ -317,15 +319,19 @@ We provide you with a powerful realtime crash reporter, with minimum footprint. 
 
 - **[Auth0](https://auth0.com)**
 Single sign on services for your apps. Supports OAuth via over 34 different identity providers, passwordless login, and more. 
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/222)*)
 
 - **[AuthRocket](https://authrocket.com)**
 Versatile authentication API that allows you to integrate logins, social sign in, and user management into your app. 
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/221)*)
 
 - **[Digits](https://get.digits.com)**
 Twitter's mobile-first sign in solution. Allows users to easily sign in and sign up using their phone number, manages the user graph, and free for unlimited users. 
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/220)*)
 
 - **[Stormpath](https://stormpath.com)**
 Identity layer for your apps with integrations for popular backend frameworks and user databases. Easily manage user permissions, API keys, and user tokens. 
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/219)*)
 
 ###Backends for Game developers
 
@@ -443,6 +449,7 @@ Bluemix is IBM's platform service, built with Cloud Foundry and running on IBM S
 
 - **[Nitrous](https://www.nitrous.io)**
 Nitrous is a cloud-based code editor with collaboration, one-click installs and snapshots.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/199)*)
 
 - **[RAX](https://www.rackspace.com)**
 Cloud provider with support for it's own cloud, aws and azure. Supports running Node.js in both vms and docker containers.
