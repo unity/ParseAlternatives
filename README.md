@@ -385,6 +385,10 @@ Marlin is a  fast REST API library built on top of redis server. Its has no spec
 Piwik is the leading open-source analytics platform that gives you more than just powerful analytics.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/151)*)
 
+- **[Serverless Framework](http://www.serverless.com)** 
+The application framework for building web, mobile and IoT backends exclusively on Amazon Web Services' Lambda and API Gateway.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/206)*)
+
 ###Parse Server providers
 
 - **[AWS](https://aws.amazon.com)**
