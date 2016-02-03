@@ -44,6 +44,10 @@ A next-gen MBaaS, Arrow consists of two primary components, Builder and Cloud. A
 Integrated mobile backend services (MBaaS), so you can focus on your apps, not infrastructure, including database, push, and server code.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/27)*)
 
+- **[Appmobi.com](https://appmobi.com)**
+Secure Mobile Security as a Service (MSaaS) platform.  Configurable encryption, authentication and encrypted data stores all from one platform.  Includes Secure Live Update, Secure Push, Secure Push Messaging, and Secure Analytics.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/209)*)
+
 - **[Apps Panel](http://www.appspanel.com)** :zap:
 Apps Panel is an ISV which created an “as a Service” 360° Mobile Backend (MBaaS) for apps/IoT. This innovative middleware allows a global management of apps/IoT (content, marketing, analytics, monitoring…) with a comprehensive Web interface, and an API development/Gateways to interact dynamically with corporate information systems.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/pull/138)*)
