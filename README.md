@@ -399,6 +399,10 @@ Microsoft cloud service. Supports both Node.js and Mongo via MongoLab.
 You can migrate your app from the hosted Parse backend to Google App Engine by running Node.js on App Engine Managed VMs and using MongoDB preinstalled on a Compute Engine VM instance or by using MongoLab.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/47)*)
 
+- **[Heroku](https://www.heroku.com)**
+Migrate your app from the hosted Parse backend to Heroku by simply pushing the Heroku Button in the [`parse-server-example`](https://github.com/ParsePlatform/parse-server-example#with-the-heroku-button) repo. This will create an app on Heroku, provision the [MongoLab add-on](https://elements.heroku.com/addons/mongolab) and deploy the `parse-server-example`.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/47)*)
+
 - **[IBM Bluemix](https://developer.ibm.com/clouddataservices/2016/01/29/parse-on-ibm-bluemix)**
 Bluemix is IBM's platform service, built with Cloud Foundry and running on IBM SoftLayer. It supports the Node.js runtime required for Parse Server. Bluemix also comes with many database options, including MongoDB from IBM's Compose.io acquisition. Link includes migration instructions.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/48)*)
