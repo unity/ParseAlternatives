@@ -424,7 +424,7 @@ The application framework for building web, mobile and IoT backends exclusively 
 ###Parse Server providers
 
 - **[Nimble Parse](http://nimbleparse.com)**
-We at Nimblestack built and launched a 100% Parse compatible API in less than one week. Current offer includes Object creation & query, User management, and Cloud Code.
+We at Nimblestack built and launched a 100% Parse compatible API in less than one week. Current offer includes Object creation & query, User management, and Cloud Code. Push notifications and background jobs are in the pipeline.
 
 - **[AWS](https://aws.amazon.com)**
 AWS is Amazon's cloud infrastructure service. It supports running Node.js apps both on VMs and docker container as well as running Mongo and aws own DynamoDB.
