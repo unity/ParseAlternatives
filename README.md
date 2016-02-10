@@ -132,7 +132,7 @@ Kumulos is built for mobile app development businesses and agencies to allow you
 This service comes close to Parse with its online/offline data syncing, user authentication, push notifications and cloud code.It’s easy to rapidly build engaging cross-platform and native apps for iOS, Android, Windows, or Mac.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/98)*)
 
-- **[MoBack Inc.](https://www.moback.com/)** :zap:
+- **[MoBack](https://www.moback.com)** :zap:
 MoBack is a mobile as a back end service that specializes in push notifications, data storage, REST API, analytics, user management, iOS, .Net, SDK, Android, Unity, Javascript, and Custom code.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/183)*)
 
