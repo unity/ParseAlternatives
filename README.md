@@ -140,6 +140,9 @@ Backend as a service with a GraphQL API. Reindex offers data storage, authentica
 Backend-as-a-service focused on a powerful interface for creating your database models and providing a JSON REST API.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/100)*)
 
+- **[ShepHertz App42](http://api.shephertz.com/)**
+ShepHertz provides a Omni-Channel Platform (Mobile, social, gaming, TV, IoT, Wearables etc.) to build Apps and Games. Deployed in 9 countries and processing 25+ Billion API Calls and are trusted by thousands of Indie developers, App Studios and Enterprises across the world, App42 offers 25+ mBaaS modules such as Push Notifications, NoSQL Storage, Cloud Code, User Management, File Upload, Advanced Actionable Analytics, Gaming Backend APIs and much more.
+
 - **[Syncano](https://www.syncano.io)**
 Syncano is a highly customizable BaaS that greatly reduces the need for backend code and middleware so developers can focus on building exceptional user experiences.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/101)*)
