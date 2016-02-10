@@ -329,12 +329,12 @@ Versatile authentication API that allows you to integrate logins, social sign in
 Twitter's mobile-first sign in solution. Allows users to easily sign in and sign up using their phone number, manages the user graph, and free for unlimited users. 
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/220)*)
 
-- **[Tapglue](https://www.tapglue.com)**
-Tapglue provides a social layer including user-management for app developers. You can signup and login users, create social graphs (friend & follower model) and build feeds on top of it.
-
 - **[Stormpath](https://stormpath.com)**
 Identity layer for your apps with integrations for popular backend frameworks and user databases. Easily manage user permissions, API keys, and user tokens. 
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/219)*)
+
+- **[Tapglue](https://www.tapglue.com)**
+Tapglue provides a social layer including user-management for app developers. You can signup and login users, create social graphs (friend & follower model) and build feeds on top of it.
 
 ###Backends for Game developers
 
