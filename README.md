@@ -437,9 +437,6 @@ The application framework for building web, mobile and IoT backends exclusively 
 
 ###Parse Server providers
 
-- **[Nimble Parse](http://nimbleparse.com)**
-We at Nimblestack built and launched a 100% Parse compatible API in less than one week. Current offer includes Object creation & query, User management, and Cloud Code. Push notifications and background jobs are in the pipeline.
-
 - **[AWS](https://aws.amazon.com)**
 AWS is Amazon's cloud infrastructure service. It supports running Node.js apps both on VMs and docker container as well as running Mongo and aws own DynamoDB.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/179)*)
@@ -463,6 +460,9 @@ Heroku is a cloud platform that lets companies build, deliver, monitor and scale
 - **[IBM Bluemix](https://developer.ibm.com/clouddataservices/2016/01/29/parse-on-ibm-bluemix)**
 Bluemix is IBM's platform service, built with Cloud Foundry and running on IBM SoftLayer. It supports the Node.js runtime required for Parse Server. Bluemix also comes with many database options, including MongoDB from IBM's Compose.io acquisition. Link includes migration instructions.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/48)*)
+
+- **[Nimble Parse](http://nimbleparse.com)**
+We at Nimblestack built and launched a 100% Parse compatible API in less than one week. Current offer includes Object creation & query, User management, and Cloud Code. Push notifications and background jobs are in the pipeline.
 
 - **[Nitrous](https://www.nitrous.io)**
 Nitrous is a cloud-based code editor with collaboration, one-click installs and snapshots.
