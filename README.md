@@ -227,6 +227,10 @@ Connect is a free push notification and in-app analytics tool from RadiumOne. It
 Urban Airship helps leading brands engage their mobile users and build high-value relationships from the moment customers download an app. Thousands of companies and some of the most demanding brands in retail, media & entertainment, sports and travel & hospitality, trust Urban Airship to deliver the mobile moments that matter to their customers and to their business.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/52)*)
 
+- **[Tapjoy](http://www.tapjoy.com/)** :zap:
+Tapjoy, the mobile app industry’s first personalized monetization platform, utilizes their holistic LTV infrastructure to enable app developers to deliver personalized, contextually relevant engagement and monetization campaigns. This technology offers user-level-segmentation which allows you to send targeted Push Notifications to re-engage your users and alert them of updates in your game or currency sales. Not only that, it allows you to take targeting to the next level by using Predictive Analytics. Choose to utilize unique products that increase conversions from Push Notifications by linking a push notifications to an opportunity to monetize with our Push to Earn product. Most importantly, push is FREE when you monetize with Tapjoy.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/232)*)
+
 - **[TUNE In-App Marketing](https://www.tune.com/in-app-marketing)**
 With In-App Marketing, the TUNE Marketing Console (TMC) now gives you ownership of the entire mobile marketing funnel, from first touch to ongoing retention, in one integrated platform. By optimizing user experience and delivering relevant content to the right people at the right time, In-App Marketing drives higher engagement and maximizes each user’s value.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/175)*)
@@ -288,6 +292,10 @@ Our Mobile Engagement Platform brings together User Insights, Smart Targeting & 
 - **[Mixpanel](https://mixpanel.com)** :zap:
 Make your product better by measuring actions, instead of page views. Mixpanel gives you the ability to easily measure what people are doing in your app on iOS, Android, and web.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/117)*)
+
+- **[Tapjoy](http://www.tapjoy.com/)** :zap:
+Tapjoy, the mobile app industry’s first personalized monetization platform, utilizes their holistic LTV infrastructure to enable app developers to deliver personalized, contextually relevant engagement and monetization campaigns. Tapjoy offers best in class analytics features such as the Future Value MapTM, Cohort Analysis, IAP Revenue, Real-Time Analytics, Funnel Analysis  and Churn Analysis so you can understand exactly what your users are doing now and predict what they will do in the future. With that information, you can transform insights into action with through our robust Marketing Automation capabilities allowing you to send user-level targeted push messages, in-app message, rewarded messages, and more.  Most importantly, all of this is FREE if you monetize with Tapjoy.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/232)*)
 
 - **[Taplytics](https://taplytics.com)** 
 Taplytics is a fully integrated mobile A/B testing, push notification, and analytics platform providing the tools you need to optimize your mobile app. Taplytics supports transactional, geo, event and behavioral triggered push notifications, all of which can be a/b tested and optimized for success.
