@@ -124,6 +124,10 @@ With Kii’s mobile backend, create scalable, high performance mobile apps for v
 An alternative backend-as-a-service (BaaS) provider very similar to Parse. Like Parse, it offers cloud storage, push notifications and custom business logic, but also provides an out-of-the-box implementation of Facebook Open Graph for apps that don't have websites.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/39)*)
 
+- **[Kumulos](https://www.kumulos.com)**
+Kumulos is built for mobile app development businesses and agencies to allow you to manage all of your clients and their apps from one single-pane-of-glass. Kumulos can be white-labelled with your agencies branding and you can invite your clients to join. Kumulos has features for each stage of the app lifecycle starting with Gartner recognised mBaaS technology. In addition to SQL based storage, this includes Hookup (to connect to other MySQL databases), KScript (for server-side Javascript jobs), a RESTful API and client SDKs for iOS, Android, Windows, PHP and more. In addition to App Build, Kumulos will also help you Grow your audience (with App Store Optimisation), Engage with them (via RFM reports and soon Push notifications) and Care for their experience (by monitoring upstream service availability and API response time). Kumulos also allows you to backup your clients' app data at any time.
+(*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/230)*)
+
 - **[Microsoft Azure Mobile App Service](https://azure.microsoft.com/en-us/services/app-service/mobile)**
 This service comes close to Parse with its online/offline data syncing, user authentication, push notifications and cloud code.It’s easy to rapidly build engaging cross-platform and native apps for iOS, Android, Windows, or Mac.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/98)*)
