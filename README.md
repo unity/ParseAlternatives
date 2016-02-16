@@ -343,6 +343,9 @@ Versatile authentication API that allows you to integrate logins, social sign in
 Twitter's mobile-first sign in solution. Allows users to easily sign in and sign up using their phone number, manages the user graph, and free for unlimited users.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/220)*)
 
+- **[Hull.io](https://www.hull.io)**
+Social Login, Single sign-on, Guest (anonymous) Users, Email+Password authentication, with powerful Tracking and User Segmentation that synchronizes your custom segments across all your marketing tools. 
+
 - **[Stormpath](https://stormpath.com)**
 Identity layer for your apps with integrations for popular backend frameworks and user databases. Easily manage user permissions, API keys, and user tokens.
 (*[discussion](https://github.com/relatedcode/ParseAlternatives/issues/219)*)
